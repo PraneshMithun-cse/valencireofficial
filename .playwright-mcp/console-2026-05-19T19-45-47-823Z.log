@@ -1,0 +1,7 @@
+[    2462ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en/products/sky-blue-linen-shirt:0
+[    2543ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/2a929_next_dist_compiled_react-dom_90fbcb53._.js:14537
+[    2596ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[   68028ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en/products/sky-blue-linen-shirt:0
+[   68102ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/2a929_next_dist_compiled_react-dom_90fbcb53._.js:14537
+[   74468ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en/products/sky-blue-linen-shirt:0
+[   74506ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/2a929_next_dist_compiled_react-dom_90fbcb53._.js:14537

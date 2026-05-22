@@ -1,0 +1,64 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - img "Short-sleeved Rustic Backside T-shirt — back view" [ref=e6]
+        - img "Short-sleeved Rustic Backside T-shirt — side view" [ref=e8]
+        - img "Short-sleeved Rustic Backside T-shirt — front view" [ref=e10]
+        - img "Short-sleeved Rustic Backside T-shirt — detail view" [ref=e12]
+      - generic [ref=e13]:
+        - button "Expand image" [ref=e14]:
+          - img [ref=e15]
+        - generic [ref=e17]:
+          - button [ref=e18]
+          - button [ref=e19]
+          - button [ref=e20]
+          - button [ref=e21]
+        - button "Scroll down" [ref=e22]:
+          - img [ref=e23]
+      - generic [ref=e25]:
+        - button "Add to wishlist" [ref=e27]:
+          - img [ref=e28]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "Short-sleeved Rustic Backside T-shirt" [level=1] [ref=e32]
+            - generic [ref=e33]: $120
+          - generic [ref=e34]:
+            - text: Men's regular-fit T-shirt featuring a rustic fabric panel on the back. Made from...
+            - button "Read more" [ref=e35]
+          - generic [ref=e37]:
+            - generic [ref=e38]:
+              - generic [ref=e39]: Color
+              - generic [ref=e40]: Beige
+            - button "Beige" [ref=e42]
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: Out of stock? Get notified when it's back.
+            - generic [ref=e45]:
+              - button "S" [ref=e46]
+              - button "M" [ref=e47]
+              - button "L" [ref=e48]
+              - button "XL" [ref=e49]
+          - button "Add to Bag" [disabled] [ref=e50]
+          - paragraph [ref=e51]: Free Returns
+    - generic [ref=e52]:
+      - img "Product detail" [ref=e55]
+      - generic [ref=e56]:
+        - group [ref=e57] [cursor=pointer]:
+          - generic "Product Info" [ref=e58]:
+            - text: Product Info
+            - img [ref=e59]
+        - group [ref=e61] [cursor=pointer]:
+          - generic "Shipping and returns" [ref=e62]:
+            - text: Shipping and returns
+            - img [ref=e63]
+        - group [ref=e65] [cursor=pointer]:
+          - generic "Composition" [ref=e66]:
+            - text: Composition
+            - img [ref=e67]
+        - group [ref=e69] [cursor=pointer]:
+          - generic "Gift Packing" [ref=e70]:
+            - text: Gift Packing
+            - img [ref=e71]
+  - button "Open Next.js Dev Tools" [ref=e78] [cursor=pointer]:
+    - img [ref=e79]
+  - alert [ref=e82]

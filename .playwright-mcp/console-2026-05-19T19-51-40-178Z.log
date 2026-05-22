@@ -1,0 +1,718 @@
+[    2734ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[    2764ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[    2764ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[    2773ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[    9812ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[    9908ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[    9913ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[    9913ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[    9917ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  123902ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  124487ms] [LOG] [Fast Refresh] done in 686ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  431255ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[  431302ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  431341ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  431349ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  431355ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  466336ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en/shirts:0
+[  466377ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  466388ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  467948ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[  467953ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  467988ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  468003ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  468004ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  568480ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[  568499ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  568507ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  568579ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  568580ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  575236ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  575260ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  575276ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  575276ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  580240ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  580275ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  580291ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  580291ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  594702ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  594819ms] [LOG] [Fast Refresh] done in 195ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  642409ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  642438ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  642457ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  642462ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  662631ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  662632ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  662637ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  662647ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  664121ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  664149ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  664171ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  664171ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  674468ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  674468ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  674472ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  674481ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  679874ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  679885ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  679930ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  679936ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  687742ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  687742ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  687745ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  687754ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  690700ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  690718ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  690772ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  690772ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  694876ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  694877ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  694879ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  694888ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  701522ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  701551ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  701581ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  701583ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  903048ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  903068ms] [LOG] [Fast Refresh] done in 52ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  909431ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  909451ms] [LOG] [Fast Refresh] done in 40ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  912617ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  912617ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  912634ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  912649ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  913759ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  913768ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  913773ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  913775ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  916215ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  916240ms] [LOG] [Fast Refresh] done in 22ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  921885ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  921922ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  921950ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  921956ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  927184ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  927184ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  927186ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  927194ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  930131ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  930140ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  930186ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  930188ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  932256ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  932257ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  932258ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  932266ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  946544ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  946571ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  946601ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  946601ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  967554ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  967555ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  967565ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  967574ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  968740ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  968786ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  968799ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  968800ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  970516ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  970516ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  970519ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  970527ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  971317ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  971344ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  971363ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  971369ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  978193ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  978193ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  978196ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  978204ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  980085ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  980118ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  980138ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  980141ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  982068ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  982068ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  982071ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  982079ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  985784ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  985813ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  985827ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  985832ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  987976ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  987976ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  987978ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  987988ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  994804ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  994824ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  994852ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  994852ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1002819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1002819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1002823ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1002833ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1060569ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en:0
+[ 1060591ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1060598ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1062178ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1062207ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1062223ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1062224ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1062814ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 1062819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1062819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1062827ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1062836ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1065469ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 1065554ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1065614ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1065614ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1065625ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1277437ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1277454ms] [LOG] [Fast Refresh] done in 78ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1374506ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 1374593ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1374603ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1374615ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1374623ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1374624ms] [WARNING] Image with src "/images/oldmoney-glow1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1543803ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1543827ms] [LOG] [Fast Refresh] done in 31ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1565986ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1565996ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1566011ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1566011ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1568684ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1568696ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1568701ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1568701ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1570849ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1570849ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1570852ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1570861ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1572454ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1572456ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 1572500ms] [LOG] [Fast Refresh] done in 42ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1572648ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1572664ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1572737ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1572738ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1578619ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1578619ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1578622ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1578631ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1827581ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 1827589ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1827592ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1827612ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1827628ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1831550ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 1831567ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1831576ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1831603ms] [WARNING] Image with src "/images/BLACKSHIRT.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1831623ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 1831624ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 1831655ms] [WARNING] Image with src "/images/oldmoney-glow1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1895818ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 1895837ms] [LOG] [Fast Refresh] done in 120ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2017401ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2017431ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2017455ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2017505ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2017508ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2017539ms] [WARNING] Image with src "/images/oldmoney-glow1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2020293ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2020341ms] [LOG] [Fast Refresh] done in 46ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2046677ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2046707ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2046728ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2046731ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2048762ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2048794ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2048807ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2048807ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2116400ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2116400ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2116416ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2116427ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2117811ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2117837ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2117860ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2117860ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2123126ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en:0
+[ 2123136ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2123141ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2124884ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2124910ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2124950ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2124951ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2126419ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2126419ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2126422ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2126430ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2222783ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2222820ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2222842ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2222849ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2249289ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2249293ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2249293ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2249295ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2251283ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2251294ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2251304ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2251304ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2313938ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en:0
+[ 2313960ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2313966ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2315408ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2315455ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2315479ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2315481ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2315867ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2315867ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2315870ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2315890ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2317191ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2317194ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2317194ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2317202ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2317212ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2319646ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2319658ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2319668ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2319704ms] [WARNING] Image with src "/images/gray-pleated-trousers1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2319709ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2319709ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2352589ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2352614ms] [LOG] [Fast Refresh] done in 42ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2363714ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2363736ms] [LOG] [Fast Refresh] done in 31ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2370356ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2370431ms] [LOG] [Fast Refresh] done in 62ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2370518ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2370521ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2377305ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2377314ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2377320ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2377321ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2379211ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2379220ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2379270ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2379270ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2387184ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2387184ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2387194ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2387206ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2388582ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2388591ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2388640ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2388641ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2397966ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2397966ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2397968ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2397976ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2405960ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2405992ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2406062ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2406063ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2411300ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2411300ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2411303ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2411316ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2412632ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2412642ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2412681ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2412683ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2414565ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2414565ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2414568ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2414576ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2417616ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2417624ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2417687ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2417688ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2419450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2419450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2419451ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2419459ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2422311ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2422315ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2422315ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2422319ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2422329ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2439298ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2439315ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2439342ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2439357ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2439357ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2441281ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2441329ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2441351ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2441351ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2443055ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2443078ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2443102ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2443102ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2456264ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2456271ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2456276ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2456283ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2461150ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2461155ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2461155ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2461168ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2461176ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2465311ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2465322ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2465330ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2465378ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2465378ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2465422ms] [WARNING] Image with src "/images/gray-pleated-trousers1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2672212ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2672349ms] [LOG] [Fast Refresh] done in 238ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2683445ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2683465ms] [LOG] [Fast Refresh] done in 99ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2700696ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2700718ms] [LOG] [Fast Refresh] done in 30ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2710127ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2710256ms] [LOG] [Fast Refresh] done in 157ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2710364ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2710371ms] [LOG] [Fast Refresh] done in 107ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2769103ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2769237ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2769238ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2769241ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2769268ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2769283ms] [WARNING] Image with src "/images/skyblue1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2777692ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2777732ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2777750ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2777750ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2780687ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/en:0
+[ 2780700ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2780707ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2782193ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2782210ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2782233ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2782234ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2783137ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2783141ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2783141ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2783144ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2783151ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2786242ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2786252ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2786261ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2786314ms] [WARNING] Image with src "/images/gray-pleated-trousers1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2786333ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2786334ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2825608ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2825618ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2825627ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2825627ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2830187ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2830221ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2830242ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2830242ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2833716ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2833716ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2833718ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2833728ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2853039ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2853158ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853158ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853162ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853167ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853175ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853176ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853178ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853179ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853181ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853253ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853333ms] [LOG] [Fast Refresh] done in 248ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2853351ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853351ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853356ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 2853793ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2853805ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2853817ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2853822ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2857817ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2857866ms] [LOG] [Fast Refresh] done in 34ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2858985ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 2858990ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[ 2858990ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 2858992ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2859002ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2864703ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2864730ms] [LOG] [Fast Refresh] done in 23ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2870418ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 2870445ms] [LOG] [Fast Refresh] done in 21ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3604146ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 3604189ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3604235ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3651796ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3651809ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3651885ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[ 3652933ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 3652941ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3652950ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3665445ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3665472ms] [LOG] [Fast Refresh] done in 29ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3670188ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3670189ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670217ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670219ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670220ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670303ms] [WARNING] [HMR] Invalid message: {"isTrusted":true}
+TypeError: Cannot convert undefined or null to object
+    at Object.keys (<anonymous>)
+    at extractModulesFromTurbopackMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13631:39)
+    at TurbopackHmr.onTurbopackMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13578:32)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13936:30)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52) @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3670303ms] [LOG] [Fast Refresh] done in 178ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3670304ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670305ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3670306ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3675316ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3675316ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3675390ms] [LOG] [Fast Refresh] done in 18ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3683445ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3683446ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:916:37)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_006lxpk._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/04ls_next_dist_client_0~zyo0o._.js:13335:52)
+[ 3683760ms] [LOG] [Fast Refresh] done in 17ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3791833ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3792063ms] [LOG] [Fast Refresh] done in 333ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3792081ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[ 3792101ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3792110ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3792133ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-dom_0npwhxa._.js:1392
+[ 3792141ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-dom_0npwhxa._.js:1392
+[ 3792158ms] Error: Event handlers cannot be passed to Client Component props.
+  <a href=... style={{...}} onMouseEnter={function onMouseEnter} onMouseLeave=... children=...>
+                                         ^^^^^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>:1:18)
+    at stringify (<anonymous>:1:18)
+    at stringify (<anonymous>:1:18)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-server-dom-turbopack_0uumi-o._.js:1919:105)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-server-dom-turbopack_0uumi-o._.js:2434:29)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-server-dom-turbopack_0uumi-o._.js:2393:9)
+    at processBinaryChunk (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-server-dom-turbopack_0uumi-o._.js:2502:221)
+    at progress (http://localhost:3000/_next/static/chunks/04ls_next_dist_compiled_react-server-dom-turbopack_0uumi-o._.js:2689:13)
+[ 3798501ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3798628ms] [LOG] [Fast Refresh] done in 227ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3819455ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3819615ms] [LOG] [Fast Refresh] done in 262ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3819717ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3819795ms] [LOG] [Fast Refresh] done in 180ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3831904ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3831954ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3832072ms] [LOG] [Fast Refresh] done in 87ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3832204ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[ 3832351ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3832512ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 3964163ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 5020910ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[ 5021104ms] [LOG] [Fast Refresh] done in 295ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[23933361ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[24967463ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[25080676ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[25459004ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[25501261ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[45025779ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[45025812ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[45025835ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0

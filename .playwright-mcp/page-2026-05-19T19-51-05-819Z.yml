@@ -1,0 +1,83 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /en
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img "Sky Blue Linen Shirt" [ref=e21]
+      - img "Sky Blue Linen Shirt" [ref=e23]
+      - img "Sky Blue Linen Shirt" [ref=e25]
+    - generic [ref=e27]:
+      - paragraph [ref=e28]:
+        - link "Collection" [ref=e29] [cursor=pointer]:
+          - /url: /en/collections
+        - text: / Shirts
+      - heading "Sky Blue Linen Shirt" [level=1] [ref=e30]
+      - paragraph [ref=e31]: ₹2,999
+      - paragraph [ref=e32]: A relaxed-fit linen shirt crafted for effortless warm-weather dressing. Breathable fabric drapes softly over the body — understated elegance with every movement.
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: Size
+          - generic [ref=e36] [cursor=pointer]: Size guide
+        - generic [ref=e37]:
+          - button "XS" [ref=e38] [cursor=pointer]
+          - button "S" [ref=e39] [cursor=pointer]
+          - button "M" [ref=e40] [cursor=pointer]
+          - button "L" [ref=e41] [cursor=pointer]
+          - button "XL" [ref=e42] [cursor=pointer]
+      - button "Add to Cart" [ref=e43] [cursor=pointer]
+      - paragraph [ref=e44]: Free shipping & easy returns
+      - button "Product Details +" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: Product Details
+        - generic [ref=e48]: +
+      - button "Fit & Sizing +" [ref=e50] [cursor=pointer]:
+        - generic [ref=e51]: Fit & Sizing
+        - generic [ref=e52]: +
+      - button "Fabric & Care +" [ref=e54] [cursor=pointer]:
+        - generic [ref=e55]: Fabric & Care
+        - generic [ref=e56]: +
+      - button "Shipping & Returns +" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: Shipping & Returns
+        - generic [ref=e60]: +
+  - contentinfo [ref=e63]:
+    - generic [ref=e64]:
+      - img "Valenciré" [ref=e66]
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - paragraph [ref=e69]: Women's Collection
+          - paragraph [ref=e70]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e71]:
+          - paragraph [ref=e72]: Men's Collection
+          - paragraph [ref=e73]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e74]:
+        - paragraph [ref=e75]: 1-800-293-5592
+        - paragraph [ref=e76]: support@calvinklein.com
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - paragraph [ref=e79]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e80] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e81]:
+        - link "Terms of Use" [ref=e82] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e83] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=e84]

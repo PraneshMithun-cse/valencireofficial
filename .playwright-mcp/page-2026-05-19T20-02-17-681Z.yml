@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /en
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img "Burgundy Pleated Trousers" [ref=e21]
+      - img "Burgundy Pleated Trousers" [ref=e23]
+      - img "Burgundy Pleated Trousers" [ref=e25]
+      - img "Burgundy Pleated Trousers" [ref=e27]
+    - button [ref=e28] [cursor=pointer]:
+      - img [ref=e29]
+    - generic [ref=e31]:
+      - button [ref=e32] [cursor=pointer]
+      - button [ref=e33] [cursor=pointer]
+      - button [ref=e34] [cursor=pointer]
+      - button [ref=e35] [cursor=pointer]
+    - generic [ref=e36]:
+      - paragraph [ref=e38]:
+        - link "Collection" [ref=e39] [cursor=pointer]:
+          - /url: /en/collections
+        - text: / Trousers & Pants
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - heading "Burgundy Pleated Trousers" [level=1] [ref=e42]
+          - generic [ref=e43]: ₹3,999
+        - paragraph [ref=e45]: Double-pleated trousers in a rich burgundy that commands presence without effort. A wide leg falls cleanly from hip to hem — tailored for movement as much as aesthetics.
+      - generic [ref=e46]:
+        - generic [ref=e48]: Size
+        - list [ref=e49]:
+          - listitem [ref=e50]:
+            - button "28" [ref=e51] [cursor=pointer]
+          - listitem [ref=e52]:
+            - button "30" [ref=e53] [cursor=pointer]
+          - listitem [ref=e54]:
+            - button "32" [ref=e55] [cursor=pointer]
+          - listitem [ref=e56]:
+            - button "34" [ref=e57] [cursor=pointer]
+          - listitem [ref=e58]:
+            - button "36" [ref=e59] [cursor=pointer]
+        - generic [ref=e61]:
+          - generic [ref=e62] [cursor=pointer]: Size guide
+          - generic [ref=e63]: Out of stock? Get notified.
+        - button "Add to Cart — ₹3,999" [ref=e64] [cursor=pointer]
+        - generic [ref=e65]: Free shipping & easy returns
+  - generic [ref=e66]:
+    - paragraph [ref=e67]: Double-pleated trousers in a rich burgundy that commands presence without effort. A wide leg falls cleanly from hip to hem — tailored for movement as much as aesthetics.
+    - generic [ref=e68]:
+      - button "Product Details +" [ref=e70] [cursor=pointer]:
+        - generic [ref=e71]: Product Details
+        - generic [ref=e72]: +
+      - button "Fit & Sizing +" [ref=e74] [cursor=pointer]:
+        - generic [ref=e75]: Fit & Sizing
+        - generic [ref=e76]: +
+      - button "Fabric & Care +" [ref=e78] [cursor=pointer]:
+        - generic [ref=e79]: Fabric & Care
+        - generic [ref=e80]: +
+      - button "Shipping & Returns +" [ref=e82] [cursor=pointer]:
+        - generic [ref=e83]: Shipping & Returns
+        - generic [ref=e84]: +
+  - contentinfo [ref=e87]:
+    - generic [ref=e88]:
+      - img "Valenciré" [ref=e90]
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: Women's Collection
+          - paragraph [ref=e94]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e95]:
+          - paragraph [ref=e96]: Men's Collection
+          - paragraph [ref=e97]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e98]:
+        - paragraph [ref=e99]: 1-800-293-5592
+        - paragraph [ref=e100]: support@calvinklein.com
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e104] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e105]:
+        - link "Terms of Use" [ref=e106] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e113] [cursor=pointer]:
+    - img [ref=e114]
+  - alert [ref=e117]

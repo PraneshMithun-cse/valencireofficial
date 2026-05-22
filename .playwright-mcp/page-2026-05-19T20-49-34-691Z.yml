@@ -1,0 +1,109 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - main [ref=e18]:
+    - generic [ref=e20]:
+      - img "New Collection" [ref=e22]
+      - img "Old Money" [ref=e25]
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - button "Slide 1" [ref=e29] [cursor=pointer]
+          - button "Slide 2" [ref=e30] [cursor=pointer]
+        - paragraph [ref=e31]: New Collection
+        - link "Explore" [ref=e32] [cursor=pointer]:
+          - /url: /en/shirts
+        - img [ref=e33]
+      - button "Previous" [ref=e35]
+      - button "Next" [ref=e36]
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img "Valenciré skyblue collection" [ref=e41]
+        - img "Valenciré burgundy collection" [ref=e43]
+      - generic [ref=e44]:
+        - heading "The Shirt Edit" [level=2] [ref=e45]
+        - paragraph [ref=e46]:
+          - text: Effortless cuts in refined fabrics.
+          - text: Dressed down. Always intentional.
+        - generic [ref=e47]:
+          - link "Shop Shirts" [ref=e48] [cursor=pointer]:
+            - /url: /en/shirts
+          - link "Shop Trousers" [ref=e49] [cursor=pointer]:
+            - /url: /en/trouser-pants
+    - generic [ref=e51]:
+      - img "Valenciré night collection" [ref=e52]
+      - generic [ref=e53]:
+        - heading "After Dark" [level=2] [ref=e54]
+        - paragraph [ref=e55]: Precision tailoring for the evening. Bold silhouettes refined for every occasion.
+        - generic [ref=e56]:
+          - link "Shop Shirts" [ref=e57] [cursor=pointer]:
+            - /url: /en/shirts
+          - link "Shop Trousers" [ref=e58] [cursor=pointer]:
+            - /url: /en/trouser-pants
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Valenciré gray pleated trousers" [ref=e63]
+        - img "Valenciré gray pleated trousers street" [ref=e65]
+      - img "Valenciré"
+      - generic [ref=e66]:
+        - heading "Old Money" [level=2] [ref=e67]
+        - paragraph [ref=e68]: Quiet luxury in motion. Classic silhouettes reimagined for the modern gentleman.
+        - generic [ref=e69]:
+          - link "Shop Trousers" [ref=e70] [cursor=pointer]:
+            - /url: /en/trouser-pants
+          - link "Shop Shirts" [ref=e71] [cursor=pointer]:
+            - /url: /en/shirts
+    - generic [ref=e73]:
+      - generic:
+        - img:
+          - generic: COLLECTION
+      - img "Valenciré Collection" [ref=e75]
+      - paragraph [ref=e77]:
+        - text: NEW
+        - text: SEASON
+      - link "Shop The Collection" [ref=e79] [cursor=pointer]:
+        - /url: /en/collections
+  - contentinfo [ref=e81]:
+    - generic [ref=e82]:
+      - img "Valenciré" [ref=e84]
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - paragraph [ref=e87]: Women's Collection
+          - paragraph [ref=e88]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e89]:
+          - paragraph [ref=e90]: Men's Collection
+          - paragraph [ref=e91]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e92]:
+        - paragraph [ref=e93]: 1-800-293-5592
+        - paragraph [ref=e94]: support@calvinklein.com
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - paragraph [ref=e97]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e98] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e99]:
+        - link "Terms of Use" [ref=e100] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e101] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e107] [cursor=pointer]:
+    - img [ref=e108]
+  - alert [ref=e111]

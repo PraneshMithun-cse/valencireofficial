@@ -1,0 +1,129 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /en
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img "Valenciré" [ref=e20]
+      - generic [ref=e21]: Spring / Summer 2025
+    - generic [ref=e22]:
+      - img "Sky Blue Shirt" [ref=e24]
+      - generic [ref=e25]: New Arrivals
+  - generic [ref=e26]:
+    - link "Sky Blue Linen Shirt Sky Blue Linen Shirt Sky Blue Linen Shirt ₹2,999" [ref=e27] [cursor=pointer]:
+      - /url: /en/products/sky-blue-linen-shirt
+      - generic [ref=e28]:
+        - img "Sky Blue Linen Shirt" [ref=e29]
+        - img "Sky Blue Linen Shirt" [ref=e30]
+      - generic [ref=e31]:
+        - generic [ref=e32]: Sky Blue Linen Shirt
+        - generic [ref=e33]: ₹2,999
+    - link "Black Oxford Shirt Black Oxford Shirt ₹3,499" [ref=e34] [cursor=pointer]:
+      - /url: /en/products/black-oxford-shirt
+      - img "Black Oxford Shirt" [ref=e36]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Black Oxford Shirt
+        - generic [ref=e39]: ₹3,499
+    - link "Old Money Glow Shirt Old Money Glow Shirt Old Money Glow Shirt ₹3,299" [ref=e40] [cursor=pointer]:
+      - /url: /en/products/old-money-glow-shirt
+      - generic [ref=e41]:
+        - img "Old Money Glow Shirt" [ref=e42]
+        - img "Old Money Glow Shirt" [ref=e43]
+      - generic [ref=e44]:
+        - generic [ref=e45]: Old Money Glow Shirt
+        - generic [ref=e46]: ₹3,299
+    - link "Old Money Linen Shirt Old Money Linen Shirt Old Money Linen Shirt ₹3,199" [ref=e47] [cursor=pointer]:
+      - /url: /en/products/old-money-linen-shirt
+      - generic [ref=e48]:
+        - img "Old Money Linen Shirt" [ref=e49]
+        - img "Old Money Linen Shirt" [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52]: Old Money Linen Shirt
+        - generic [ref=e53]: ₹3,199
+  - generic [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]: Trousers & Pants
+        - generic [ref=e58]: SS 2025
+      - img "Burgundy Pleated Trousers" [ref=e60]
+    - img "Old Money Editorial" [ref=e62]
+  - generic [ref=e63]:
+    - link "Burgundy Pleated Trousers Burgundy Pleated Trousers Burgundy Pleated Trousers ₹3,999" [ref=e64] [cursor=pointer]:
+      - /url: /en/products/burgundy-pleated-trousers
+      - generic [ref=e65]:
+        - img "Burgundy Pleated Trousers" [ref=e66]
+        - img "Burgundy Pleated Trousers" [ref=e67]
+      - generic [ref=e68]:
+        - generic [ref=e69]: Burgundy Pleated Trousers
+        - generic [ref=e70]: ₹3,999
+    - link "Burgundy Trousers II Burgundy Trousers II Burgundy Trousers II ₹3,799" [ref=e71] [cursor=pointer]:
+      - /url: /en/products/burgundy-trousers-ii
+      - generic [ref=e72]:
+        - img "Burgundy Trousers II" [ref=e73]
+        - img "Burgundy Trousers II" [ref=e74]
+      - generic [ref=e75]:
+        - generic [ref=e76]: Burgundy Trousers II
+        - generic [ref=e77]: ₹3,799
+    - link "Gray Pleated Trousers Gray Pleated Trousers Gray Pleated Trousers ₹3,499" [ref=e78] [cursor=pointer]:
+      - /url: /en/products/gray-pleated-trousers
+      - generic [ref=e79]:
+        - img "Gray Pleated Trousers" [ref=e80]
+        - img "Gray Pleated Trousers" [ref=e81]
+      - generic [ref=e82]:
+        - generic [ref=e83]: Gray Pleated Trousers
+        - generic [ref=e84]: ₹3,499
+    - link "Gray Trousers II Gray Trousers II ₹3,299" [ref=e85] [cursor=pointer]:
+      - /url: /en/products/gray-trousers-ii
+      - img "Gray Trousers II" [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]: Gray Trousers II
+        - generic [ref=e90]: ₹3,299
+  - generic [ref=e91]:
+    - img "Valenciré — Old Money" [ref=e92]
+    - generic [ref=e94]:
+      - heading "Old Money" [level=2] [ref=e95]
+      - paragraph [ref=e96]: Classic silhouettes, modern gentleman
+  - contentinfo [ref=e98]:
+    - generic [ref=e99]:
+      - img "Valenciré" [ref=e101]
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - paragraph [ref=e104]: Women's Collection
+          - paragraph [ref=e105]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: Men's Collection
+          - paragraph [ref=e108]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e109]:
+        - paragraph [ref=e110]: 1-800-293-5592
+        - paragraph [ref=e111]: support@calvinklein.com
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e116]:
+        - link "Terms of Use" [ref=e117] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e118] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e124] [cursor=pointer]:
+    - img [ref=e125]
+  - alert [ref=e128]

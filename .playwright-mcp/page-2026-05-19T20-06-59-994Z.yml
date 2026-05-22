@@ -1,0 +1,102 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /en
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img "Sky Blue Linen Shirt" [ref=e21]
+      - img "Sky Blue Linen Shirt" [ref=e23]
+      - img "Sky Blue Linen Shirt" [ref=e25]
+    - button [ref=e26] [cursor=pointer]:
+      - img [ref=e27]
+    - generic [ref=e29]:
+      - button [ref=e30] [cursor=pointer]
+      - button [ref=e31] [cursor=pointer]
+      - button [ref=e32] [cursor=pointer]
+    - generic [ref=e33]:
+      - paragraph [ref=e35]:
+        - link "Collection" [ref=e36] [cursor=pointer]:
+          - /url: /en/collections
+        - text: / Shirts
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - heading "Sky Blue Linen Shirt" [level=1] [ref=e39]
+          - generic [ref=e40]: ₹2,999
+        - paragraph [ref=e42]: A relaxed-fit linen shirt crafted for effortless warm-weather dressing. Breathable fabric drapes softly over the body — understated elegance with every movement.
+      - generic [ref=e43]:
+        - generic [ref=e45]: Size
+        - list [ref=e46]:
+          - listitem [ref=e47]:
+            - button "XS" [ref=e48] [cursor=pointer]
+          - listitem [ref=e49]:
+            - button "S" [ref=e50] [cursor=pointer]
+          - listitem [ref=e51]:
+            - button "M" [ref=e52] [cursor=pointer]
+          - listitem [ref=e53]:
+            - button "L" [ref=e54] [cursor=pointer]
+          - listitem [ref=e55]:
+            - button "XL" [ref=e56] [cursor=pointer]
+        - generic [ref=e58]:
+          - generic [ref=e59] [cursor=pointer]: Size guide
+          - generic [ref=e60]: Out of stock? Get notified.
+        - button "Add to Cart — ₹2,999" [ref=e61] [cursor=pointer]
+        - generic [ref=e62]: Free shipping & easy returns
+  - generic [ref=e63]:
+    - paragraph [ref=e64]: A relaxed-fit linen shirt crafted for effortless warm-weather dressing. Breathable fabric drapes softly over the body — understated elegance with every movement.
+    - generic [ref=e65]:
+      - button "Product Details +" [ref=e67] [cursor=pointer]:
+        - generic [ref=e68]: Product Details
+        - generic [ref=e69]: +
+      - button "Fit & Sizing +" [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]: Fit & Sizing
+        - generic [ref=e73]: +
+      - button "Fabric & Care +" [ref=e75] [cursor=pointer]:
+        - generic [ref=e76]: Fabric & Care
+        - generic [ref=e77]: +
+      - button "Shipping & Returns +" [ref=e79] [cursor=pointer]:
+        - generic [ref=e80]: Shipping & Returns
+        - generic [ref=e81]: +
+  - contentinfo [ref=e84]:
+    - generic [ref=e85]:
+      - img "Valenciré" [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - paragraph [ref=e90]: Women's Collection
+          - paragraph [ref=e91]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: Men's Collection
+          - paragraph [ref=e94]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e95]:
+        - paragraph [ref=e96]: 1-800-293-5592
+        - paragraph [ref=e97]: support@calvinklein.com
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e101] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e102]:
+        - link "Terms of Use" [ref=e103] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e104] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e110] [cursor=pointer]:
+    - img [ref=e111]
+  - alert [ref=e114]

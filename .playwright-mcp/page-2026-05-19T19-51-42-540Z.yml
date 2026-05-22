@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - link "Trouser and Pants" [ref=e5] [cursor=pointer]:
+          - /url: /en/trouser-pants
+        - link "Shirts" [ref=e6] [cursor=pointer]:
+          - /url: /en/shirts
+      - link "Valenciré" [ref=e7] [cursor=pointer]:
+        - /url: /en
+        - img "Valenciré" [ref=e8]
+      - generic [ref=e9]:
+        - button "Search" [ref=e10]:
+          - img [ref=e11]
+        - button "Cart" [ref=e14]:
+          - img [ref=e15]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img "Burgundy Pleated Trousers" [ref=e21]
+      - img "Burgundy Pleated Trousers" [ref=e23]
+      - img "Burgundy Pleated Trousers" [ref=e25]
+      - img "Burgundy Pleated Trousers" [ref=e27]
+    - generic [ref=e29]:
+      - paragraph [ref=e30]:
+        - link "Collection" [ref=e31] [cursor=pointer]:
+          - /url: /en/collections
+        - text: / Trousers & Pants
+      - heading "Burgundy Pleated Trousers" [level=1] [ref=e32]
+      - paragraph [ref=e33]: ₹3,999
+      - paragraph [ref=e34]: Double-pleated trousers in a rich burgundy that commands presence without effort. A wide leg falls cleanly from hip to hem — tailored for movement as much as aesthetics.
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: Size
+          - generic [ref=e38] [cursor=pointer]: Size guide
+        - generic [ref=e39]:
+          - button "28" [ref=e40] [cursor=pointer]
+          - button "30" [ref=e41] [cursor=pointer]
+          - button "32" [ref=e42] [cursor=pointer]
+          - button "34" [ref=e43] [cursor=pointer]
+          - button "36" [ref=e44] [cursor=pointer]
+      - button "Add to Cart" [ref=e45] [cursor=pointer]
+      - paragraph [ref=e46]: Free shipping & easy returns
+      - button "Product Details +" [ref=e48] [cursor=pointer]:
+        - generic [ref=e49]: Product Details
+        - generic [ref=e50]: +
+      - button "Fit & Sizing +" [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]: Fit & Sizing
+        - generic [ref=e54]: +
+      - button "Fabric & Care +" [ref=e56] [cursor=pointer]:
+        - generic [ref=e57]: Fabric & Care
+        - generic [ref=e58]: +
+      - button "Shipping & Returns +" [ref=e60] [cursor=pointer]:
+        - generic [ref=e61]: Shipping & Returns
+        - generic [ref=e62]: +
+  - contentinfo [ref=e65]:
+    - generic [ref=e66]:
+      - img "Valenciré" [ref=e68]
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - paragraph [ref=e71]: Women's Collection
+          - paragraph [ref=e72]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+        - generic [ref=e73]:
+          - paragraph [ref=e74]: Men's Collection
+          - paragraph [ref=e75]:
+            - text: Ready to wear
+            - text: Underwear & Denim
+            - text: Accessories
+      - generic [ref=e76]:
+        - paragraph [ref=e77]: 1-800-293-5592
+        - paragraph [ref=e78]: support@calvinklein.com
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: © 2025 Valenciré. All Rights Reserved.
+        - link "Privacy Policy" [ref=e82] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e83]:
+        - link "Terms of Use" [ref=e84] [cursor=pointer]:
+          - /url: "#"
+        - link "CA Privacy Rights" [ref=e85] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e91] [cursor=pointer]:
+    - img [ref=e92]
+  - alert [ref=e95]

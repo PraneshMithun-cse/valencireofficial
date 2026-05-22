@@ -1,0 +1,529 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#top"
+  - generic [ref=e4]:
+    - paragraph
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "M e n u":
+            - /url: "#menu"
+            - generic:
+              - generic:
+                - generic:
+                  - generic: M
+                  - generic: e
+                  - generic: "n"
+                  - generic: u
+              - generic: M
+              - generic: e
+              - generic: "n"
+              - generic: u
+              - generic:
+                - img
+              - generic:
+                - img
+        - link "Homepage" [ref=e11] [cursor=pointer]:
+          - /url: "#top"
+          - generic [ref=e14]:
+            - generic "Homepage" [ref=e15]:
+              - generic [ref=e17]:
+                - img
+            - img
+        - generic [ref=e18]:
+          - link "B o o k a n a p p o i n t m e n t":
+            - /url: "#appointment"
+            - generic:
+              - generic:
+                - generic:
+                  - generic: B
+                  - generic: o
+                  - generic: o
+                  - generic: k
+                - generic:
+                  - generic: a
+                  - generic: "n"
+                - generic:
+                  - generic: a
+                  - generic: p
+                  - generic: p
+                  - generic: o
+                  - generic: i
+                  - generic: "n"
+                  - generic: t
+                  - generic: m
+                  - generic: e
+                  - generic: "n"
+                  - generic: t
+              - generic: B
+              - generic: o
+              - generic: o
+              - generic: k
+              - generic: a
+              - generic: "n"
+              - generic: a
+              - generic: p
+              - generic: p
+              - generic: o
+              - generic: i
+              - generic: "n"
+              - generic: t
+              - generic: m
+              - generic: e
+              - generic: "n"
+              - generic: t
+    - generic [ref=e19]:
+      - main [ref=e20]:
+        - generic [ref=e21]:
+          - iframe [ref=e23]:
+            
+          - generic [ref=e24]:
+            - heading "Your Beauty" [level=2]
+          - link "Next section":
+            - /url: "#intro"
+            - img
+            - generic:
+              - generic:
+                - img
+          - paragraph:
+            - text: Refined
+            - text: to Perfection
+        - generic [ref=e25]:
+          - heading "Doctor Grigoriak" [level=1] [ref=e26]
+          - generic [ref=e27]:
+            - paragraph:
+              - text: honed
+              - text: through years
+            - generic [ref=e28]: PROFICIENCY
+            - generic:
+              - img
+          - paragraph [ref=e30]: Lead Supervising Surgeon of the Plastic Surgery Department at an International Medical Clinic. Performs surgeries in Dubai and Abu Dhabi.
+          - blockquote [ref=e35]:
+            - img [ref=e37]
+            - paragraph [ref=e39]: We often rush to judge beauty at first glance. Only an expert eye and the skilled touch of a master can unveil the hidden perfection within — and let it shine for the world to see.
+            - generic [ref=e41]: Dr. Nikolai Grigoriak
+          - link "Meet the doctor" [ref=e43] [cursor=pointer]:
+            - /url: /about
+            - img [ref=e44]
+            - generic [ref=e48]:
+              - text: Meet
+              - text: the doctor
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - heading "Aesthetic Excellence" [level=2]:
+                      - generic: Aesthetic
+                      - generic: Excellence
+                  - generic:
+                    - paragraph: A refined sense of beauty is a rare gift. With his extensive expertise and artistic vision, Dr. Grigoriak enhances your natural features, creating harmony and authentic elegance.
+                  - generic:
+                    - heading "The Result You’ve Been Waiting For" [level=2]:
+                      - generic: The Result You’ve
+                      - generic: Been Waiting For
+                  - generic:
+                    - paragraph: Most surgeons follow routine techniques, leaving a recognizable trace. Dr. Grigoriak has mastered a variety of methods and will choose the one that best meets your expectations.
+                  - generic:
+                    - heading "With You Every Step of the Way" [level=2]:
+                      - generic: With You Every Step
+                      - generic: of the Way
+                  - generic:
+                    - paragraph: Surgery is only one step in your transformation. From the first consultation to full recovery, Dr. Grigoriak remains personally involved to ensure you feel safe, supported, and at ease.
+                  - generic:
+                    - heading "Leading Surgeon in Dubai" [level=2]:
+                      - generic: Leading Surgeon
+                      - generic: in Dubai
+                  - generic:
+                    - paragraph: Hands you can trust with what matters most — your health, beauty, and confidence. Over 15,000 hours of surgical artistry, 2,900 transformed lives, and 13 years of dedication. Since 2023, Dr. Grigoriak has led the plastic surgery department of an international clinic. He is the first CIS-origin surgeon licensed in Abu Dhabi.
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading "Main Services" [level=2]:
+                  - generic: Main
+                  - generic: Services
+                - paragraph: The allure of your gaze, the refinement of your features, the elegance of your silhouette. Let your new image speak for you — with confidence and grace.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - link "rhinoplasty":
+                      - /url: /service/rhinoplasty
+                      - img
+                      - generic:
+                        - generic: rhinoplasty
+                        - generic:
+                          - img
+                  - generic:
+                    - link "mammoplasty":
+                      - /url: /service/mammoplasty
+                      - img
+                      - generic:
+                        - generic: mammoplasty
+                        - generic:
+                          - img
+                  - generic:
+                    - generic:
+                      - img
+        - generic:
+          - generic:
+            - generic:
+              - heading "Before/After" [level=2]:
+                - generic: Before/After
+            - link "Liposculpture":
+              - /url: /gallery/liposculpture
+              - paragraph: Liposculpture
+            - link "Rhinoplasty":
+              - /url: /gallery/rhinoplasty
+              - paragraph: Rhinoplasty
+            - link "Mammoplasty":
+              - /url: /gallery/mammoplasty
+              - paragraph: Mammoplasty
+            - link "Body Surgery":
+              - /url: /gallery/body
+              - paragraph: Body Surgery
+            - link "Facial Surgery":
+              - /url: /gallery/face
+              - paragraph: Facial Surgery
+            - generic:
+              - link "Gallery":
+                - /url: /gallery
+                - img
+                - generic:
+                  - generic: Gallery
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph: The Elements of Perfection
+                    - generic:
+                      - generic:
+                        - list:
+                          - listitem:
+                            - paragraph: Proficiency
+                      - generic:
+                        - generic:
+                          - button "Previous slide":
+                            - img
+                            - generic:
+                              - generic:
+                                - img
+                          - button "Next slide":
+                            - img
+                            - generic:
+                              - generic:
+                                - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - list:
+                            - listitem
+                      - generic:
+                        - generic:
+                          - list:
+                            - listitem:
+                              - paragraph: Dr. Grigoriak studied under leading experts in aesthetic surgery and has been performing procedures since 2012. In 2023, he became the head of plastic surgery at a prestigious Dubai clinic and the first in history CIS-origin surgeon licensed in the UAE capital. Dr. Grigoriak uses a variety of techniques, so he never works according to a single formula. He will offer a solution that reveals your unique natural beauty.
+          - generic:
+            - generic:
+              - paragraph:
+                - text: 7 Steps toward
+                - text: your transformation
+              - article:
+                - generic:
+                  - button "Consultation Consultation":
+                    - generic:
+                      - text: Consultation
+                      - generic: Consultation
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Preparation for surgery Preparation for surgery":
+                    - generic:
+                      - text: Preparation for surgery
+                      - generic: Preparation for surgery
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Admission to the clinic Admission to the clinic":
+                    - generic:
+                      - text: Admission to the clinic
+                      - generic: Admission to the clinic
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Marking Marking":
+                    - generic:
+                      - text: Marking
+                      - generic: Marking
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Surgery Surgery":
+                    - generic:
+                      - text: Surgery
+                      - generic: Surgery
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Immediately After Surgery Immediately After Surgery":
+                    - generic:
+                      - text: Immediately After Surgery
+                      - generic: Immediately After Surgery
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+                - generic:
+                  - button "Recovery Recovery":
+                    - generic:
+                      - text: Recovery
+                      - generic: Recovery
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+        - generic:
+          - generic:
+            - heading "Services" [level=2]
+            - generic:
+              - list:
+                - listitem:
+                  - link "body surgery":
+                    - /url: /service/body
+                    - img
+                    - generic:
+                      - generic: body surgery
+                      - generic:
+                        - img
+                - listitem:
+                  - link "rhinoplasty":
+                    - /url: /service/rhinoplasty
+                    - img
+                    - generic:
+                      - generic: rhinoplasty
+                      - generic:
+                        - img
+                - listitem:
+                  - link "facial surgery":
+                    - /url: /service/face
+                    - img
+                    - generic:
+                      - generic: facial surgery
+                      - generic:
+                        - img
+                - listitem:
+                  - link "liposculpture":
+                    - /url: /service/liposculpture
+                    - img
+                    - generic:
+                      - generic: liposculpture
+                      - generic:
+                        - img
+                - listitem:
+                  - link "mammoplasty":
+                    - /url: /service/mammoplasty
+                    - img
+                    - generic:
+                      - generic: mammoplasty
+                      - generic:
+                        - img
+        - generic:
+          - generic:
+            - heading "Contacts" [level=2]
+            - paragraph:
+              - text: A MEETING,
+              - text: THAT CHANGES
+              - text: YOUR LIFE
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - textbox "Your name Your name":
+                      - /placeholder: Your name
+                    - generic: Your name
+                    - img
+                    - img
+                - generic:
+                  - generic:
+                    - textbox "Phone number Phone number":
+                      - /placeholder: +
+                    - generic: Phone number
+                    - img
+                    - img
+                - generic:
+                  - paragraph:
+                    - text: By clicking the button, you make the right choice 🤎 and agree to
+                    - link "the Privacy Policy.":
+                      - /url: /privacy-policy
+                      - generic:
+                        - generic: the Privacy Policy.
+                  - generic:
+                    - button "Send":
+                      - img
+                      - generic:
+                        - generic: Send
+        - generic:
+          - generic:
+            - generic:
+              - heading "FAQ" [level=2]
+            - generic:
+              - list:
+                - listitem:
+                  - link "How safe is anesthesia?":
+                    - /url: /faq/naskol-ko-bezopasen-narkoz
+                    - generic: How safe is anesthesia?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "What type of anaesthesia is used in plastic surgeries?":
+                    - /url: /faq/kakoj-narkoz-ispol-zuetsa-pri-plasticeskih-operaciah
+                    - generic: What type of anaesthesia is used in plastic surgeries?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "Can anaesthesia wear off too early?":
+                    - /url: /faq/mozet-li-dejstvie-narkoza-zakoncit-sa-ran-se-vremeni
+                    - generic: Can anaesthesia wear off too early?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "How long do I need to stay in the clinic after plastic surgery?":
+                    - /url: /faq/skol-ko-vremeni-nuzno-nahodit-sa-v-klinike-posle-plasticeskoj-operacii
+                    - generic: How long do I need to stay in the clinic after plastic surgery?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "What is the typical recovery time after plastic surgery?":
+                    - /url: /faq/skol-ko-vremeni-zajmet-vosstanovlenie-posle-plastiki
+                    - generic: What is the typical recovery time after plastic surgery?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "Are discounts available for plastic surgery?":
+                    - /url: /faq/mozno-li-sdelat-plasticeskuu-operaciu-so-skidkoj
+                    - generic: Are discounts available for plastic surgery?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "What are the contraindications for plastic surgery?":
+                    - /url: /faq/kakie-est-protivopokazania-k-plasticeskoj-operacii
+                    - generic: What are the contraindications for plastic surgery?
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic:
+                            - img
+                - listitem:
+                  - link "show all answers":
+                    - /url: /faq
+                    - generic:
+                      - text: show
+                      - text: all answers
+                    - generic:
+                      - img
+                      - generic:
+                        - generic:
+                          - img
+      - contentinfo:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - link:
+                  - /url: "#top"
+                  - img
+            - generic:
+              - generic:
+                - link "+971 56 917 3979":
+                  - /url: tel:+971569173979
+                  - generic:
+                    - generic: +971 56 917 3979
+              - generic:
+                - generic:
+                  - link "support@grigoriak.com":
+                    - /url: mailto:support@grigoriak.com
+                    - generic:
+                      - generic: support@grigoriak.com
+            - generic:
+              - paragraph:
+                - link "American Academy Hospital Building 73 - Umm Hurair Second - Dubai Healthcare City Dubai":
+                  - /url: https://www.google.com/maps/search/?api=1&query=25.232687430345965, 55.319605180546745
+                  - text: American Academy Hospital
+                  - generic:
+                    - text: Building 73 - Umm Hurair Second - Dubai Healthcare City
+                    - text: Dubai
+              - paragraph:
+                - link "Majestic Medical Center Villa number 24, Al Zaab - Al Falah Street Abu Dhabi":
+                  - /url: https://www.google.com/maps/search/?api=1&query=24.46422175405527, 54.35180767647161
+                  - text: Majestic Medical Center
+                  - generic:
+                    - text: Villa number 24, Al Zaab - Al Falah Street
+                    - text: Abu Dhabi
+            - generic:
+              - paragraph:
+                - text: © 2026 Plastic Surgeon Nikolai Grigoriak
+                - link "User agreement":
+                  - /url: /agreement
+            - generic:
+              - generic:
+                - link "Website by Vide Infra":
+                  - /url: https://videinfra.com
+  - dialog "Cookie consent":
+    - generic [ref=e49]:
+      - paragraph [ref=e50]:
+        - text: This site collects
+        - link "Learn more about cookies" [ref=e51] [cursor=pointer]:
+          - /url: /privacy-policy
+          - generic [ref=e53]: cookies
+      - button "Accept use of cookies" [ref=e54] [cursor=pointer]:
+        - generic [ref=e56]: accept

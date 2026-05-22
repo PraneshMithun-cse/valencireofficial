@@ -1,0 +1,32 @@
+[      46ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[     105ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[     119ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[   65865ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[   65891ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[   65900ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[   65947ms] [WARNING] Image with src "/images/gray-pleated-trousers1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  518859ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  519063ms] [LOG] [Fast Refresh] done in 298ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  519205ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[  519231ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  519238ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  519297ms] [WARNING] Image with src "/images/gray-pleated-trousers1.JPG" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  521809ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  521842ms] [LOG] [Fast Refresh] done in 21ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  525615ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  525671ms] [LOG] [Fast Refresh] done in 128ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  529114ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  529146ms] [LOG] [Fast Refresh] done in 105ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  573041ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  573051ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  573111ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-55Regular-Web.woff2:0
+[  575903ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  575950ms] [LOG] [Fast Refresh] done in 147ms @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  576210ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  576217ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  576242ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/fonts/Klein-65Medium-Web.woff2:0
+[  595615ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ http://localhost:3000/:0
+[  595632ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431
+[  595640ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/04ls_next_dist_0vk1ech._.js:2431

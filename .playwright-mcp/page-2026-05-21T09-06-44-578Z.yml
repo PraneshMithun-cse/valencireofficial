@@ -1,0 +1,267 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - button "Chat":
+        - paragraph:
+          - generic:
+            - img
+          - generic: Chat
+      - button "Accessibility":
+        - paragraph:
+          - generic:
+            - img
+          - generic: Accessibility
+      - button "Order status":
+        - paragraph:
+          - generic:
+            - img
+          - generic: Order status
+      - button "Exchanges":
+        - paragraph:
+          - generic:
+            - img
+          - generic: Exchanges
+    - paragraph [ref=e4] [cursor=pointer]:
+      - img [ref=e6]
+      - generic [ref=e8]: Help
+  - generic:
+    - generic:
+      - link "Ir para a página inicial/home" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Osklen" [ref=e12]
+      - generic:
+        - generic:
+          - generic:
+            - generic [ref=e19]:
+              - navigation [ref=e20]:
+                - list [ref=e21]:
+                  - listitem [ref=e22]:
+                    - button "Men" [ref=e23] [cursor=pointer]
+                  - listitem [ref=e24]:
+                    - button "Women" [ref=e25] [cursor=pointer]
+                  - listitem [ref=e26]:
+                    - button "Shoes" [ref=e27] [cursor=pointer]
+                  - listitem [ref=e28]:
+                    - button "Accessories" [ref=e29] [cursor=pointer]
+              - generic [ref=e30]:
+                - link "Log in" [ref=e31] [cursor=pointer]:
+                  - /url: /my-account
+                  - generic [ref=e32]: Account
+                  - img [ref=e34]
+                - link "Wishlist" [ref=e36] [cursor=pointer]:
+                  - /url: /wishlist
+                  - generic [ref=e37]: Wishlist
+                  - img [ref=e39]
+                - button "open cart" [ref=e41] [cursor=pointer]:
+                  - generic [ref=e43]:
+                    - generic [ref=e44]: Bag
+                    - img [ref=e46]
+            - img "Osklen Logo" [ref=e48]
+            - generic [ref=e49] [cursor=pointer]:
+              - button "Search":
+                - generic: Search
+                - generic:
+                  - img
+  - generic [ref=e51]:
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e56]:
+          - img "Short-sleeved rustic backside t-shirt" [ref=e58]
+          - img "Short-sleeved rustic backside t-shirt" [ref=e60]
+          - img "Short-sleeved rustic backside t-shirt" [ref=e62]
+          - img "Short-sleeved rustic backside t-shirt" [ref=e64]
+        - generic [ref=e65]:
+          - button "image zoom button" [ref=e66] [cursor=pointer]:
+            - img [ref=e67]
+          - button "image scroll down button" [ref=e69] [cursor=pointer]:
+            - img [ref=e70]
+        - complementary
+      - generic [ref=e72]:
+        - button "Adicionar à Wishlist" [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - heading "Short-sleeved Rustic Backside T-shirt" [level=1] [ref=e82]
+            - generic [ref=e87]: $120
+          - generic [ref=e88]:
+            - heading "Men’s regular-fit T-shirt featuring a rustic fabric panel on the back. Made from 98% cotton and 2% elastane jersey combined with 100% certified cotton fabric. The piece is developed using certified Br" [level=2] [ref=e89]
+            - button "Read more" [ref=e90] [cursor=pointer]
+        - generic [ref=e91]:
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e95]: Color
+              - generic [ref=e96]: Beige
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - button "Beige" [ref=e100] [cursor=pointer]
+          - generic [ref=e107]:
+            - button "Out of stock? Get notified when it's back." [ref=e109] [cursor=pointer]
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - generic [ref=e115] [cursor=pointer]: S
+              - listitem [ref=e116]:
+                - generic [ref=e119] [cursor=pointer]: M
+              - listitem [ref=e120]:
+                - generic [ref=e123] [cursor=pointer]: L
+              - listitem [ref=e124]:
+                - generic [ref=e127] [cursor=pointer]: XL
+          - generic [ref=e129]:
+            - button "Add to Bag" [ref=e132] [cursor=pointer]:
+              - generic [ref=e134]: Add to Bag
+            - generic [ref=e135]: Free Returns
+      - generic:
+        - generic:
+          - button "close":
+            - generic:
+              - img
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - generic [ref=e138]: Notify me when available
+              - generic [ref=e139]: Enter your email and receive a notification when this item is available
+            - generic [ref=e140]:
+              - generic [ref=e141]: Short-sleeved rustic backside t-shirt
+              - generic [ref=e142]:
+                - group [ref=e143]:
+                  - combobox [ref=e145]
+                  - generic [ref=e146]:
+                    - textbox "Email" [ref=e147]:
+                      - /placeholder: " "
+                    - generic [ref=e148]: Email
+                  - generic [ref=e149]:
+                    - checkbox "I want to subscribe to the newsletter" [ref=e150] [cursor=pointer]
+                    - generic [ref=e151]: I want to subscribe to the newsletter
+                - button "Notify me" [disabled] [ref=e153]
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - img [ref=e156]
+        - button "Add to Wishlist" [ref=e157] [cursor=pointer]:
+          - text: Add to Wishlist
+          - img [ref=e159]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - heading "Product Info" [level=2] [ref=e172] [cursor=pointer]
+          - generic [ref=e173]:
+            - paragraph [ref=e174]: Men’s regular-fit T-shirt featuring a rustic fabric panel on the back. Made from 98% cotton and 2% elastane jersey combined with 100% certified cotton fabric. The piece is developed using certified Br
+            - generic [ref=e175]:
+              - paragraph [ref=e176]: REF
+              - generic [ref=e177]: "7450617"
+              - img [ref=e178] [cursor=pointer]
+        - generic [ref=e180]:
+          - heading "Shipping and returns" [level=2] [ref=e183] [cursor=pointer]
+          - paragraph [ref=e185]: The delivery time varies depending on the ZIP code and the chosen shipping method, starting one business day after payment confirmation. If you wish to cancel your purchase, you can return the unused product within 7 days of receiving it. Returns are free and can be requested through this link. The exchange period is up to 30 days after the delivery date and can preferably be done at our physical stores. If that’s not possible, you can also request an exchange through this link. For more details about our policies, please visit our Help Center or contact us through this link.
+        - generic [ref=e186]:
+          - heading "Composition" [level=2] [ref=e189] [cursor=pointer]
+          - paragraph [ref=e191]: 61% viscose 28% polypropylene 11% polyester
+        - generic [ref=e192]:
+          - heading "Gift Packing" [level=2] [ref=e195] [cursor=pointer]
+          - paragraph [ref=e197]: Before completing your purchase, you can select the gift wrapping option for your order.
+    - generic:
+      - generic:
+        - generic "details":
+          - generic:
+            - generic:
+              - link "Materiais":
+                - /url: javascript:void(0)
+                - generic: Materiais
+              - link "Pirarucu":
+                - /url: /
+                - generic:
+                  - img
+                - generic: Pirarucu
+            - paragraph: The Pirarucu Fish Skin project also won the Green Carpet Challenge Award 2019 from Eco-Age, a certification of sustainable excellence, for the development of this raw material. In addition to being awarded for the brand, Oskar Metsavaht received the Future Maker seal from WWF UK in the Deeper Luxury Report for promoting Brazilian heritage and supporting environmental protection efforts in the country.
+            - generic:
+              - generic:
+                - img "Pirarucu"
+              - paragraph
+            - generic:
+              - generic:
+                - paragraph: Amazon
+                - generic: bioeconomy
+              - generic:
+                - paragraph: Brazilian
+                - generic: cultural wealth
+              - generic:
+                - paragraph: Zero
+                - generic: deforestation
+            - generic:
+              - img "Pirarucu"
+            - paragraph
+  - generic [ref=e201]:
+    - generic [ref=e202]:
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - generic [ref=e206]: Osklen
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "International Shipping" [ref=e209] [cursor=pointer]:
+                - /url: /service-center?topic=563610&article=623508038
+            - listitem [ref=e210]:
+              - link "Institute-e" [ref=e211] [cursor=pointer]:
+                - /url: https://institutoe.org.br/
+            - listitem [ref=e212]:
+              - generic [ref=e213] [cursor=pointer]: Accessibility
+        - generic [ref=e214]:
+          - generic [ref=e215]: Policies
+          - list [ref=e216]:
+            - listitem [ref=e217]:
+              - link "Delivery time" [ref=e218] [cursor=pointer]:
+                - /url: /help-center?topic=563610&article=623508038
+            - listitem [ref=e219]:
+              - link "Return" [ref=e220] [cursor=pointer]:
+                - /url: /help-center?topic=563620&article=593864414
+            - listitem [ref=e221]:
+              - link "Payment methods" [ref=e222] [cursor=pointer]:
+                - /url: /help-center?topic=563616&article=593864880
+            - listitem [ref=e223]:
+              - link "Terms and conditions" [ref=e224] [cursor=pointer]:
+                - /url: /help-center?topic=563614&article=593862402
+            - listitem [ref=e225]:
+              - link "Privacy & Security" [ref=e226] [cursor=pointer]:
+                - /url: /help-center?topic=563618&article=593865150
+        - generic [ref=e227]:
+          - generic [ref=e228]: My account
+          - list [ref=e229]:
+            - listitem [ref=e230]:
+              - link "My orders" [ref=e231] [cursor=pointer]:
+                - /url: /my-account
+            - listitem [ref=e232]:
+              - link "My data" [ref=e233] [cursor=pointer]:
+                - /url: /my-account
+            - listitem [ref=e234]:
+              - link "My profile" [ref=e235] [cursor=pointer]:
+                - /url: /my-account
+        - generic [ref=e236]:
+          - generic [ref=e237]: Contact us
+          - list [ref=e238]:
+            - listitem [ref=e239]:
+              - link "Service center" [ref=e240] [cursor=pointer]:
+                - /url: /help-center?topic=563620&article=593864414
+        - generic [ref=e241]:
+          - generic [ref=e242]: Community
+          - list [ref=e243]:
+            - listitem [ref=e244]:
+              - link "Instagram" [ref=e245] [cursor=pointer]:
+                - /url: https://www.instagram.com/osklen
+            - listitem [ref=e246]:
+              - link "Tiktok" [ref=e247] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@osklen
+            - listitem [ref=e248]:
+              - link "Facebook" [ref=e249] [cursor=pointer]:
+                - /url: https://www.facebook.com/osklenusa/
+            - listitem [ref=e250]:
+              - link "Vimeo" [ref=e251] [cursor=pointer]:
+                - /url: https://vimeo.com/osklen
+            - listitem [ref=e252]:
+              - link "Youtube" [ref=e253] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/osklen
+            - listitem [ref=e254]:
+              - link "Pinterest" [ref=e255] [cursor=pointer]:
+                - /url: https://br.pinterest.com/osklen/
+      - generic [ref=e257]: Design and Development by Aparelho Estúdio, Quality Digital & Deco.cx
+    - generic [ref=e258]:
+      - generic [ref=e259]: "Terras de Aventura Ind. e Com.de Art. Esp. S/A CNPJ 35.943.604/0005-80 Rua Aristides Lobo, 150. Rio Comprido. RJ Brasil. ZIP CODE: 20250-450"
+      - generic [ref=e260]:
+        - generic [ref=e261]:
+          - img [ref=e262]
+          - text: Safe site
+        - generic [ref=e264]: "Payment Methods: Visa and Mastercard"

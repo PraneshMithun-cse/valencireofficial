@@ -1,9 +1,23 @@
+import Header from "@/components/ck/Header";
+import HeroSection from "@/components/ck/HeroSection";
+import SwimShopSection from "@/components/ck/SwimShopSection";
+import UnderwearSection from "@/components/ck/UnderwearSection";
+import HeritageSection from "@/components/ck/HeritageSection";
+import CollectionSection from "@/components/ck/CollectionSection";
+import Footer from "@/components/ck/Footer";
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <p className="text-muted-foreground">
-        Clone target not yet built. Run <code className="font-mono text-foreground">/clone-website</code> to start.
-      </p>
-    </main>
+    <>
+      <Header />
+      <main>
+        <div data-nav-theme="dark"><HeroSection /></div>
+        <div data-nav-theme="dark"><SwimShopSection /></div>
+        <div data-nav-theme="dark"><UnderwearSection /></div>
+        <div data-nav-theme="dark"><HeritageSection /></div>
+        <div data-nav-theme="dark"><CollectionSection /></div>
+      </main>
+      <div data-nav-theme="dark"><Footer /></div>
+    </>
   );
 }

@@ -1,20 +1,21 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const optiRadiant = localFont({
+  src: [
+    { path: "../../public/fonts/OPTIRadiant-Medium.otf", weight: "500" },
+    { path: "../../public/fonts/OPTIRadiant-Bold.otf", weight: "700" },
+    { path: "../../public/fonts/OPTIRadiant-ExtraBold.otf", weight: "800" },
+  ],
+  variable: "--font-radiant",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Valenciré | Official Online Site and Store",
+  description:
+    "Shop the latest from Valenciré. Free shipping on orders over $75. Official Valenciré online store.",
 };
 
 export default function RootLayout({
@@ -23,10 +24,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
+    <html lang="en" className={`h-full antialiased ${optiRadiant.variable}`}>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
