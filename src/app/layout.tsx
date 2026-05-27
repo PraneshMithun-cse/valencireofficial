@@ -1,21 +1,29 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import { Onest } from "next/font/google";
 import "./globals.css";
 
-const optiRadiant = localFont({
-  src: [
-    { path: "../../public/fonts/OPTIRadiant-Medium.otf", weight: "500" },
-    { path: "../../public/fonts/OPTIRadiant-Bold.otf", weight: "700" },
-    { path: "../../public/fonts/OPTIRadiant-ExtraBold.otf", weight: "800" },
-  ],
-  variable: "--font-radiant",
+const onest = Onest({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "900"],
+  variable: "--font-onest",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Valenciré | Official Online Site and Store",
+  title: "Mom Anion — Next Generation Sanitary Napkins",
   description:
-    "Shop the latest from Valenciré. Free shipping on orders over $75. Official Valenciré online store.",
+    "Ultra-soft, breathable sanitary napkins with advanced anion technology. Day & night protection designed for modern women. Because every woman deserves care that feels like a mom's gift.",
+  icons: {
+    icon: "/images/momanion/logo.webp",
+    apple: "/images/momanion/logo.webp",
+  },
+  openGraph: {
+    title: "Mom Anion — Next Generation Sanitary Napkins",
+    description:
+      "Ultra-soft, breathable sanitary napkins with advanced anion technology. Day & night protection designed for modern women.",
+    type: "website",
+    images: ["/images/momanion/logo.webp"],
+  },
 };
 
 export default function RootLayout({
@@ -24,8 +32,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`h-full antialiased ${optiRadiant.variable}`}>
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className={`antialiased ${onest.variable}`}>
+      <body className="min-h-screen">{children}</body>
     </html>
   );
 }

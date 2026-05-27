@@ -1,23 +1,25 @@
-import Header from "@/components/ck/Header";
-import HeroSection from "@/components/ck/HeroSection";
-import SwimShopSection from "@/components/ck/SwimShopSection";
-import UnderwearSection from "@/components/ck/UnderwearSection";
-import HeritageSection from "@/components/ck/HeritageSection";
-import CollectionSection from "@/components/ck/CollectionSection";
-import Footer from "@/components/ck/Footer";
+import Navbar from "@/components/jds/Navbar";
+import BrandBanner from "@/components/jds/DirtySodaBanner";
+import AboutSection from "@/components/jds/AboutSection";
+import ProductsSection from "@/components/jds/SodasSection";
+import BenefitsSection from "@/components/jds/SnacksSection";
+import TestimonialsSection from "@/components/jds/InstagramSection";
+import Footer from "@/components/jds/Footer";
+import { ScrollProgressBar, SmoothScrollProvider } from "@/components/SmoothScroll";
 
 export default function Home() {
   return (
-    <>
-      <Header />
+    <SmoothScrollProvider>
+      <ScrollProgressBar />
+      <Navbar />
       <main>
-        <div data-nav-theme="dark"><HeroSection /></div>
-        <div data-nav-theme="dark"><SwimShopSection /></div>
-        <div data-nav-theme="dark"><UnderwearSection /></div>
-        <div data-nav-theme="dark"><HeritageSection /></div>
-        <div data-nav-theme="dark"><CollectionSection /></div>
+        <BrandBanner />
+        <ProductsSection />
+        <BenefitsSection />
+        <TestimonialsSection />
+        <AboutSection />
       </main>
-      <div data-nav-theme="dark"><Footer /></div>
-    </>
+      <Footer />
+    </SmoothScrollProvider>
   );
 }

@@ -47,3 +47,9 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# Playwright MCP logs/screenshots
+.playwright-mcp/
+
+# Design reference screenshots
+docs/design-references/
