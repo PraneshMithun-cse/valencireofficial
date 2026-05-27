@@ -83,7 +83,7 @@ export default function Footer() {
               style={{ height: "80px", objectFit: "contain" }}
             />
             <a
-              href="tel:+91-XXXXXXXXXX"
+              href="tel:+918807755804"
               style={{
                 fontFamily: "Onest, sans-serif",
                 fontSize: "16px",
@@ -91,7 +91,7 @@ export default function Footer() {
                 textDecoration: "none",
               }}
             >
-              +91 XXXXXXXXXX
+              +91 88077 55804
             </a>
             <a
               href="mailto:hello@momanion.com"
