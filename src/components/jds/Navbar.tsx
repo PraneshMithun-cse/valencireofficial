@@ -12,13 +12,31 @@ export default function Navbar() {
       style={{ backgroundColor: "#ffffff", borderBottom: "1px solid #EDE9FE" }}
     >
       <div className="flex items-center justify-between px-6 lg:px-16 h-full">
-        <Link href="/" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-3">
           <img
-            src="/images/momanion/logo.webp"
-            alt="Mom Anion"
-            style={{ height: "108px", width: "auto", objectFit: "contain" }}
+            src="/images/momanion/svt-logo.webp"
+            alt="Sri Venkateswara Traders"
+            style={{ height: "80px", width: "80px", objectFit: "contain", borderRadius: "50%" }}
             className="relative z-10 transition-transform hover:scale-105"
           />
+          <div style={{ lineHeight: 1.15 }}>
+            <div style={{
+              fontFamily: '"Badrock Regular", sans-serif',
+              fontSize: "26px",
+              color: "#4C1D95",
+              letterSpacing: "0.04em",
+            }}>
+              Sri Venkateswara
+            </div>
+            <div style={{
+              fontFamily: '"Badrock Regular", sans-serif',
+              fontSize: "26px",
+              color: "#EC4899",
+              letterSpacing: "0.04em",
+            }}>
+              Traders
+            </div>
+          </div>
         </Link>
 
         <div className="hidden lg:flex items-center gap-8">
