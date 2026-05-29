@@ -43,7 +43,7 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "16px",
+              fontSize: "20px",
               color: "#ffffff",
               lineHeight: 1.7,
               marginTop: "1.5rem",
@@ -56,7 +56,7 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "16px",
+              fontSize: "20px",
               color: "rgba(255,255,255,0.82)",
               lineHeight: 1.7,
               marginTop: "1rem",
@@ -69,7 +69,7 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "16px",
+              fontSize: "20px",
               color: "rgba(255,255,255,0.75)",
               lineHeight: 1.7,
               marginTop: "1rem",
@@ -87,7 +87,7 @@ export default function AboutSection() {
                 backgroundColor: "#EC4899",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "15px",
+                fontSize: "18px",
                 fontWeight: 600,
                 padding: "12px 28px",
                 borderRadius: "999px",
@@ -103,7 +103,7 @@ export default function AboutSection() {
                 backgroundColor: "transparent",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "15px",
+                fontSize: "18px",
                 fontWeight: 500,
                 padding: "12px 28px",
                 borderRadius: "999px",

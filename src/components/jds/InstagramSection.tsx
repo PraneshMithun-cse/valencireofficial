@@ -72,7 +72,7 @@ export default function TestimonialsSection() {
               <p
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "15px",
+                  fontSize: "20px",
                   color: "#000000",
                   lineHeight: 1.7,
                   marginBottom: "20px",
@@ -85,7 +85,7 @@ export default function TestimonialsSection() {
               <div
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "14px",
+                  fontSize: "18px",
                   fontWeight: 600,
                   color: "#000000",
                 }}

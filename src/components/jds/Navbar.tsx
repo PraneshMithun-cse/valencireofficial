@@ -51,7 +51,7 @@ export default function Navbar() {
               href={link.href}
               style={{
                 fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "24px",
+                fontSize: "28px",
                 fontWeight: 400,
                 color: "#4C1D95",
                 textDecoration: "none",
@@ -68,7 +68,7 @@ export default function Navbar() {
           className="hidden lg:inline-flex items-center"
           style={{
             fontFamily: '"Badrock Regular", sans-serif',
-            fontSize: "24px",
+            fontSize: "28px",
             fontWeight: 400,
             letterSpacing: "0.05em",
             color: "#ffffff",
@@ -113,7 +113,7 @@ export default function Navbar() {
               onClick={() => setOpen(false)}
               style={{
                 fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "16px",
+                fontSize: "20px",
                 fontWeight: 500,
                 color: "#4C1D95",
                 textDecoration: "none",
@@ -127,7 +127,7 @@ export default function Navbar() {
             onClick={() => setOpen(false)}
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "15px",
+              fontSize: "18px",
               fontWeight: 600,
               color: "#ffffff",
               backgroundColor: "#6B21A8",

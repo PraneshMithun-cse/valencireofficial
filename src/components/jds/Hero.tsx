@@ -192,7 +192,7 @@ export default function Hero() {
         <span
           style={{
             fontFamily: '"Badrock Regular", sans-serif',
-            fontSize: "clamp(18px, 2.5vw, 36px)",
+            fontSize: "clamp(22px, 3vw, 42px)",
             color: "#EC4899",
             fontStyle: "italic",
             letterSpacing: "0.04em",
@@ -252,7 +252,7 @@ export default function Hero() {
               <div
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "clamp(8px, 0.85vw, 11px)",
+                  fontSize: "clamp(10px, 1vw, 14px)",
                   fontWeight: 700,
                   color: "#fff",
                   textTransform: "uppercase",
@@ -265,7 +265,7 @@ export default function Hero() {
               <div
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "clamp(8px, 0.8vw, 11px)",
+                  fontSize: "clamp(10px, 1vw, 14px)",
                   color: "rgba(255,255,255,0.6)",
                   whiteSpace: "nowrap",
                 }}

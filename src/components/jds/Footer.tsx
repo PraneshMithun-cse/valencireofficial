@@ -49,7 +49,7 @@ export default function Footer() {
             <div
               style={{
                 fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "clamp(24px, 2.5vw, 36px)",
+                fontSize: "clamp(28px, 3vw, 42px)",
                 color: "#4C1D95",
                 lineHeight: 1,
                 marginBottom: "4px",
@@ -63,7 +63,7 @@ export default function Footer() {
                 href={`#${link.toLowerCase().replace(" ", "")}`}
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "17px",
+                  fontSize: "20px",
                   color: "#ffffff",
                   textDecoration: "none",
                   fontWeight: 500,
@@ -86,7 +86,7 @@ export default function Footer() {
               href="tel:+918807755804"
               style={{
                 fontFamily: "Onest, sans-serif",
-                fontSize: "16px",
+                fontSize: "20px",
                 color: "#ffffff",
                 textDecoration: "none",
               }}
@@ -97,7 +97,7 @@ export default function Footer() {
               href="mailto:hello@momanion.com"
               style={{
                 fontFamily: "Onest, sans-serif",
-                fontSize: "16px",
+                fontSize: "20px",
                 color: "#ffffff",
                 textDecoration: "none",
               }}
@@ -125,7 +125,7 @@ export default function Footer() {
             <div
               style={{
                 fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "clamp(30px, 3.2vw, 48px)",
+                fontSize: "clamp(34px, 3.5vw, 54px)",
                 color: "#4C1D95",
                 lineHeight: 0.95,
               }}
@@ -135,7 +135,7 @@ export default function Footer() {
             <p
               style={{
                 fontFamily: "Onest, sans-serif",
-                fontSize: "16px",
+                fontSize: "20px",
                 color: "rgba(255,255,255,0.85)",
                 lineHeight: 1.65,
               }}
@@ -151,7 +151,7 @@ export default function Footer() {
           style={{
             borderTop: "1px solid rgba(76,29,149,0.3)",
             fontFamily: "Onest, sans-serif",
-            fontSize: "14px",
+            fontSize: "18px",
             color: "rgba(255,255,255,0.7)",
           }}
         >

@@ -274,8 +274,8 @@ export default function DirtySodaBanner() {
         .ma-feature { display: flex; align-items: center; gap: 14px; padding: 0 20px; min-height: 46px; }
         .ma-featureIcon { width: 32px; height: 32px; flex: 0 0 auto; display: grid; place-items: center; }
         .ma-featureIcon svg { width: 100%; height: 100%; }
-        .ma-featureLabel { font-weight: 700; font-size: 16px; letter-spacing: 0.06em; line-height: 1.15; }
-        .ma-featureSub   { font-weight: 400; font-size: 14px; line-height: 1.2; color: rgba(255,255,255,0.78); margin-top: 3px; }
+        .ma-featureLabel { font-weight: 700; font-size: 20px; letter-spacing: 0.06em; line-height: 1.15; }
+        .ma-featureSub   { font-weight: 400; font-size: 18px; line-height: 1.2; color: rgba(255,255,255,0.78); margin-top: 3px; }
 
         .ma-navBtn {
           position: absolute; top: 50%; transform: translateY(-50%); z-index: 20;

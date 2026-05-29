@@ -67,7 +67,7 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "12px",
+                      fontSize: "16px",
                       fontWeight: 600,
                       color: product.accent,
                       textTransform: "uppercase",
@@ -80,7 +80,7 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: '"Badrock Regular", sans-serif',
-                      fontSize: "clamp(36px, 5vw, 64px)",
+                      fontSize: "clamp(46px, 6vw, 80px)",
                       color: "#ffffff",
                       lineHeight: 0.95,
                       marginBottom: "8px",
@@ -91,7 +91,7 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "13px",
+                      fontSize: "16px",
                       color: "rgba(255,255,255,0.6)",
                       marginBottom: "16px",
                     }}
@@ -101,7 +101,7 @@ export default function ProductsSection() {
                   <p
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "14px",
+                      fontSize: "18px",
                       color: "rgba(255,255,255,0.82)",
                       lineHeight: 1.6,
                       maxWidth: "280px",
@@ -118,7 +118,7 @@ export default function ProductsSection() {
                       key={feat}
                       style={{
                         fontFamily: "Onest, sans-serif",
-                        fontSize: "12px",
+                        fontSize: "16px",
                         fontWeight: 500,
                         color: "#fff",
                         backgroundColor: "rgba(255,255,255,0.15)",
@@ -140,7 +140,7 @@ export default function ProductsSection() {
                     backgroundColor: product.accent,
                     color: product.id === "xxl" ? "#0F0A1E" : "#ffffff",
                     fontFamily: "Onest, sans-serif",
-                    fontSize: "14px",
+                    fontSize: "18px",
                     fontWeight: 600,
                     padding: "10px 24px",
                     borderRadius: "999px",
@@ -171,7 +171,7 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "12px",
+                      fontSize: "16px",
                       fontWeight: 500,
                       color: "rgba(255,255,255,0.6)",
                       letterSpacing: "0.08em",

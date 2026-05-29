@@ -20,7 +20,7 @@ export default function CTASection() {
           <div
             style={{
               fontFamily: '"Badrock Regular", sans-serif',
-              fontSize: "clamp(50px, 7vw, 110px)",
+              fontSize: "clamp(60px, 9vw, 130px)",
               color: "#ffffff",
               lineHeight: 0.9,
               marginBottom: "1.5rem",
@@ -36,7 +36,7 @@ export default function CTASection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "16px",
+              fontSize: "24px",
               color: "rgba(255,255,255,0.82)",
               lineHeight: 1.6,
               maxWidth: "440px",
@@ -54,7 +54,7 @@ export default function CTASection() {
                 backgroundColor: "#EC4899",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "15px",
+                fontSize: "18px",
                 fontWeight: 600,
                 padding: "12px 28px",
                 borderRadius: "999px",
@@ -70,7 +70,7 @@ export default function CTASection() {
                 backgroundColor: "transparent",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "15px",
+                fontSize: "18px",
                 fontWeight: 500,
                 padding: "12px 28px",
                 borderRadius: "999px",

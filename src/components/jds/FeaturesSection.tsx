@@ -130,7 +130,7 @@ export default function FeaturesSection() {
               <div
                 style={{
                   fontFamily: '"Badrock Regular", sans-serif',
-                  fontSize: "clamp(22px, 2.5vw, 30px)",
+                  fontSize: "clamp(26px, 3vw, 36px)",
                   color: "#6B21A8",
                   lineHeight: 1,
                 }}
@@ -140,7 +140,7 @@ export default function FeaturesSection() {
               <p
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "15px",
+                  fontSize: "18px",
                   color: "#4C1D95",
                   lineHeight: 1.7,
                   margin: 0,

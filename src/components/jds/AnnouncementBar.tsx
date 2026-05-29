@@ -21,7 +21,7 @@ export default function AnnouncementBar() {
           display: "flex",
           width: "max-content",
           fontFamily: '"Badrock Regular", sans-serif',
-          fontSize: "20px",
+          fontSize: "24px",
           fontWeight: 400,
           color: "#111111",
           letterSpacing: "0.05em",
