@@ -307,6 +307,50 @@ export default function DirtySodaBanner() {
         .ma-feather.f5 img { animation: ma-feather-b 10s ease-in-out -1.5s infinite; }
         .ma-feather::after { animation: inherit; }
         @media (prefers-reduced-motion: reduce) { .ma-packFloat, .ma-feather img, .ma-feather::after { animation: none; } }
+
+        @media (max-width: 1023px) {
+          .ma-hero { height: calc(100vh - 88px) !important; }
+          .ma-features { display: none !important; }
+          .ma-dots { bottom: 10px !important; }
+        }
+
+        .ma-mobile-features {
+          display: none;
+        }
+        @media (max-width: 1023px) {
+          .ma-mobile-features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            position: absolute;
+            bottom: 42px;
+            left: 0;
+            right: 0;
+            z-index: 20;
+            border-top: 1px solid rgba(255,255,255,0.18);
+          }
+          .ma-mobile-feature {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 14px;
+          }
+          .ma-mobile-feature:nth-child(odd) { border-right: 1px solid rgba(255,255,255,0.18); }
+          .ma-mobile-feature-label {
+            font-family: Onest, sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            line-height: 1.2;
+          }
+          .ma-mobile-feature-sub {
+            font-family: Onest, sans-serif;
+            font-size: 11px;
+            color: rgba(255,255,255,0.65);
+            line-height: 1.2;
+          }
+        }
       `}</style>
 
       <section ref={sectionRef} className={`ma-hero${isBlue ? " is-blue" : ""}`}>
@@ -439,6 +483,24 @@ export default function DirtySodaBanner() {
               aria-selected={theme === t}
               role="tab"
             />
+          ))}
+        </div>
+
+        {/* Mobile feature strip (hidden on desktop via CSS) */}
+        <div className="ma-mobile-features" aria-hidden="true">
+          {[
+            { icon: "🌿", label: "Natural Ultra Soft", sub: "Breathable Napkins" },
+            { icon: "🛡️", label: "5 Technologies", sub: "Superior Protection" },
+            { icon: "♻️", label: "Eco-Friendly", sub: "Next Gen Pads" },
+            { icon: "🌙", label: "Long Lasting", sub: "Day & Night" },
+          ].map((f) => (
+            <div key={f.label} className="ma-mobile-feature">
+              <span style={{ fontSize: "16px", flexShrink: 0 }}>{f.icon}</span>
+              <div>
+                <div className="ma-mobile-feature-label">{f.label}</div>
+                <div className="ma-mobile-feature-sub">{f.sub}</div>
+              </div>
+            </div>
           ))}
         </div>
 

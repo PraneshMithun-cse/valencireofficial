@@ -44,7 +44,7 @@ export default function ProductsSection() {
         <div
           style={{
             fontFamily: '"Badrock Regular", sans-serif',
-            fontSize: "clamp(50px, 7vw, 100px)",
+            fontSize: "clamp(38px, 7vw, 100px)",
             color: "#6B21A8",
             lineHeight: 0.9,
             marginBottom: "3rem",
@@ -54,25 +54,28 @@ export default function ProductsSection() {
         </div>
 
         {/* Product cards */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div
+          className="flex lg:grid lg:grid-cols-2 gap-4 lg:gap-8 overflow-x-auto lg:overflow-x-visible snap-x snap-mandatory lg:snap-none pb-4 lg:pb-0"
+          style={{ marginLeft: "-1.5rem", marginRight: "-1.5rem", paddingLeft: "1.5rem", paddingRight: "1.5rem", scrollbarWidth: "none" }}
+        >
           {products.map((product) => (
             <div
               key={product.id}
-              className="rounded-3xl overflow-hidden flex flex-col lg:flex-row items-stretch"
-              style={{ backgroundColor: product.bg, minHeight: "420px" }}
+              className="snap-center flex-none w-[74vw] lg:w-auto rounded-3xl overflow-hidden flex flex-col lg:flex-row items-stretch"
+              style={{ backgroundColor: product.bg, minHeight: "360px" }}
             >
               {/* Text side */}
-              <div className="flex-1 p-8 lg:p-10 flex flex-col justify-between">
+              <div className="flex-1 p-4 lg:p-10 flex flex-col justify-between">
                 <div>
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "16px",
+                      fontSize: "clamp(11px, 2.8vw, 16px)",
                       fontWeight: 600,
                       color: product.accent,
                       textTransform: "uppercase",
                       letterSpacing: "0.1em",
-                      marginBottom: "8px",
+                      marginBottom: "6px",
                     }}
                   >
                     {product.tagline}
@@ -80,10 +83,10 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: '"Badrock Regular", sans-serif',
-                      fontSize: "clamp(46px, 6vw, 80px)",
+                      fontSize: "clamp(24px, 6vw, 80px)",
                       color: "#ffffff",
                       lineHeight: 0.95,
-                      marginBottom: "8px",
+                      marginBottom: "6px",
                     }}
                   >
                     {product.name}
@@ -91,9 +94,9 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "16px",
+                      fontSize: "clamp(11px, 2.8vw, 16px)",
                       color: "rgba(255,255,255,0.6)",
-                      marginBottom: "16px",
+                      marginBottom: "10px",
                     }}
                   >
                     {product.size}
@@ -101,10 +104,9 @@ export default function ProductsSection() {
                   <p
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "18px",
+                      fontSize: "clamp(12px, 3vw, 18px)",
                       color: "rgba(255,255,255,0.82)",
-                      lineHeight: 1.6,
-                      maxWidth: "280px",
+                      lineHeight: 1.5,
                     }}
                   >
                     {product.description}
@@ -112,18 +114,18 @@ export default function ProductsSection() {
                 </div>
 
                 {/* Features */}
-                <div className="flex flex-wrap gap-2 mt-6">
+                <div className="flex flex-wrap gap-1.5 mt-3 lg:mt-6">
                   {product.features.map((feat) => (
                     <span
                       key={feat}
                       style={{
                         fontFamily: "Onest, sans-serif",
-                        fontSize: "16px",
+                        fontSize: "clamp(10px, 2.5vw, 16px)",
                         fontWeight: 500,
                         color: "#fff",
                         backgroundColor: "rgba(255,255,255,0.15)",
                         borderRadius: "999px",
-                        padding: "4px 12px",
+                        padding: "3px 9px",
                         border: "1px solid rgba(255,255,255,0.2)",
                       }}
                     >
@@ -136,13 +138,13 @@ export default function ProductsSection() {
                   href="#contact"
                   style={{
                     display: "inline-block",
-                    marginTop: "24px",
+                    marginTop: "14px",
                     backgroundColor: product.accent,
                     color: product.id === "xxl" ? "#0F0A1E" : "#ffffff",
                     fontFamily: "Onest, sans-serif",
-                    fontSize: "18px",
+                    fontSize: "clamp(12px, 3vw, 18px)",
                     fontWeight: 600,
-                    padding: "10px 24px",
+                    padding: "8px 18px",
                     borderRadius: "999px",
                     textDecoration: "none",
                     width: "fit-content",
@@ -153,13 +155,13 @@ export default function ProductsSection() {
               </div>
 
               {/* Product image + price */}
-              <div className="w-full lg:w-[42%] flex flex-col items-center justify-between p-6 gap-4">
+              <div className="w-full lg:w-[42%] flex flex-row lg:flex-col items-center justify-between p-3 lg:p-6 gap-2 lg:gap-4">
                 {/* Price badge */}
                 <div style={{ textAlign: "center" }}>
                   <div
                     style={{
                       fontFamily: '"Badrock Regular", sans-serif',
-                      fontSize: "clamp(56px, 7vw, 96px)",
+                      fontSize: "clamp(30px, 7vw, 96px)",
                       color: "#ffffff",
                       lineHeight: 1,
                       letterSpacing: "-0.02em",
@@ -171,7 +173,7 @@ export default function ProductsSection() {
                   <div
                     style={{
                       fontFamily: "Onest, sans-serif",
-                      fontSize: "16px",
+                      fontSize: "clamp(9px, 2vw, 14px)",
                       fontWeight: 500,
                       color: "rgba(255,255,255,0.6)",
                       letterSpacing: "0.08em",
@@ -185,7 +187,7 @@ export default function ProductsSection() {
                 <img
                   src={product.img}
                   alt={product.name}
-                  style={{ width: "100%", maxWidth: "200px", objectFit: "contain" }}
+                  style={{ width: "42%", maxWidth: "120px", objectFit: "contain" }}
                 />
               </div>
             </div>

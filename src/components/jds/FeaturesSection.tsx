@@ -113,26 +113,33 @@ export default function FeaturesSection() {
       style={{ backgroundColor: "#FDF4FF", paddingTop: "4rem", paddingBottom: "4rem" }}
     >
       <div className="px-6 lg:px-16">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
           {features.map(({ Icon, title, description }) => (
             <div
               key={title}
-              className="rounded-2xl p-8 flex flex-col gap-4"
+              className="rounded-2xl p-5 lg:p-8 flex flex-col gap-3 lg:gap-4"
               style={{
                 backgroundColor: "#ffffff",
                 border: "1.5px solid #EDE9FE",
                 boxShadow: "0 4px 24px rgba(107,33,168,0.07)",
               }}
             >
-              <div style={{ height: "64px", display: "flex", alignItems: "center" }}>
+              {/* Mobile icon — class-only display so lg:hidden works */}
+              <div className="flex items-center lg:hidden" style={{ height: "52px", overflow: "hidden", width: "54px" }}>
+                <div style={{ transform: "scale(0.92)", transformOrigin: "left center" }}>
+                  <Icon />
+                </div>
+              </div>
+              {/* Desktop icon */}
+              <div className="hidden lg:flex items-center" style={{ height: "64px" }}>
                 <Icon />
               </div>
               <div
                 style={{
                   fontFamily: '"Badrock Regular", sans-serif',
-                  fontSize: "clamp(26px, 3vw, 36px)",
+                  fontSize: "clamp(18px, 4vw, 36px)",
                   color: "#6B21A8",
-                  lineHeight: 1,
+                  lineHeight: 1.1,
                 }}
               >
                 {title}
@@ -140,9 +147,9 @@ export default function FeaturesSection() {
               <p
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "18px",
+                  fontSize: "clamp(13px, 3vw, 18px)",
                   color: "#4C1D95",
-                  lineHeight: 1.7,
+                  lineHeight: 1.55,
                   margin: 0,
                 }}
               >

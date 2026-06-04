@@ -75,7 +75,7 @@ export default function BenefitsSection() {
         <div
           style={{
             fontFamily: '"Badrock Regular", sans-serif',
-            fontSize: "clamp(60px, 8vw, 110px)",
+            fontSize: "clamp(44px, 8vw, 110px)",
             color: "#4C1D95",
             lineHeight: 0.9,
             marginBottom: "1rem",
@@ -174,7 +174,7 @@ export default function BenefitsSection() {
                 <div
                   style={{
                     fontFamily: '"Badrock Regular", sans-serif',
-                    fontSize: "clamp(48px, 7vw, 96px)",
+                    fontSize: "clamp(36px, 7vw, 96px)",
                     color: "#ffffff",
                     lineHeight: 0.95,
                     marginBottom: "20px",
@@ -225,7 +225,7 @@ export default function BenefitsSection() {
               <div
                 style={{
                   fontFamily: '"Badrock Regular", sans-serif',
-                  fontSize: "clamp(42px, 6vw, 72px)",
+                  fontSize: "clamp(32px, 6vw, 72px)",
                   color: "#4C1D95",
                   lineHeight: 1,
                 }}

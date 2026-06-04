@@ -41,105 +41,83 @@ export default function Footer() {
         </svg>
       </div>
 
-      <div className="px-6 lg:px-16" style={{ paddingTop: "5rem", paddingBottom: "3rem" }}>
-        {/* Top row */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
-          {/* Nav links */}
-          <div className="flex flex-col gap-4">
-            <div
-              style={{
-                fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "clamp(28px, 3vw, 42px)",
-                color: "#4C1D95",
-                lineHeight: 1,
-                marginBottom: "4px",
-              }}
-            >
+      <div className="px-5 lg:px-16 pt-10 lg:pt-20 pb-6 lg:pb-12">
+        {/* Center: logo + contact — first on mobile */}
+        <div className="flex flex-col items-center text-center gap-3 lg:hidden mb-6 pb-6"
+          style={{ borderBottom: "1px solid rgba(76,29,149,0.2)" }}>
+          <img
+            src="/images/momanion/logo.webp"
+            alt="Mom Anion"
+            style={{ height: "56px", objectFit: "contain" }}
+          />
+          <a href="tel:+918807755804"
+            style={{ fontFamily: "Onest, sans-serif", fontSize: "14px", color: "#ffffff", textDecoration: "none" }}>
+            +91 88077 55804
+          </a>
+          <a href="mailto:hello@momanion.com"
+            style={{ fontFamily: "Onest, sans-serif", fontSize: "14px", color: "#ffffff", textDecoration: "none" }}>
+            hello@momanion.com
+          </a>
+          <div className="flex gap-4 mt-1">
+            {socialLinks.map((s) => (
+              <a key={s.label} href={s.href} aria-label={s.label} style={{ color: "#4C1D95" }}>{s.icon}</a>
+            ))}
+          </div>
+        </div>
+
+        {/* 2-col nav + tagline on mobile */}
+        <div className="grid grid-cols-2 gap-5 lg:hidden mb-6">
+          {/* Nav */}
+          <div className="flex flex-col gap-2">
+            <div style={{ fontFamily: '"Badrock Regular", sans-serif', fontSize: "20px", color: "#4C1D95", lineHeight: 1, marginBottom: "4px" }}>
               Navigate
             </div>
             {["Products", "About Us", "Benefits", "Contact"].map((link) => (
-              <a
-                key={link}
-                href={`#${link.toLowerCase().replace(" ", "")}`}
-                style={{
-                  fontFamily: "Onest, sans-serif",
-                  fontSize: "20px",
-                  color: "#ffffff",
-                  textDecoration: "none",
-                  fontWeight: 500,
-                  lineHeight: 1.4,
-                }}
-              >
+              <a key={link} href={`#${link.toLowerCase().replace(" ", "")}`}
+                style={{ fontFamily: "Onest, sans-serif", fontSize: "14px", color: "#ffffff", textDecoration: "none", fontWeight: 500 }}>
                 {link}
               </a>
             ))}
           </div>
+          {/* Tagline */}
+          <div className="flex flex-col gap-2">
+            <div style={{ fontFamily: '"Badrock Regular", sans-serif', fontSize: "18px", color: "#4C1D95", lineHeight: 1 }}>
+              Care That Feels Like A Mom&apos;s Gift
+            </div>
+            <p style={{ fontFamily: "Onest, sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.85)", lineHeight: 1.6, margin: 0 }}>
+              Next generation sanitary napkins with advanced anion technology. Designed for every woman.
+            </p>
+          </div>
+        </div>
 
-          {/* Center: logo + contact */}
+        {/* Desktop 3-col layout */}
+        <div className="hidden lg:grid grid-cols-3 gap-12 items-start">
+          <div className="flex flex-col gap-4">
+            <div style={{ fontFamily: '"Badrock Regular", sans-serif', fontSize: "clamp(28px, 3vw, 42px)", color: "#4C1D95", lineHeight: 1, marginBottom: "4px" }}>
+              Navigate
+            </div>
+            {["Products", "About Us", "Benefits", "Contact"].map((link) => (
+              <a key={link} href={`#${link.toLowerCase().replace(" ", "")}`}
+                style={{ fontFamily: "Onest, sans-serif", fontSize: "20px", color: "#ffffff", textDecoration: "none", fontWeight: 500, lineHeight: 1.4 }}>
+                {link}
+              </a>
+            ))}
+          </div>
           <div className="flex flex-col items-center text-center gap-5">
-            <img
-              src="/images/momanion/logo.webp"
-              alt="Mom Anion"
-              style={{ height: "80px", objectFit: "contain" }}
-            />
-            <a
-              href="tel:+918807755804"
-              style={{
-                fontFamily: "Onest, sans-serif",
-                fontSize: "20px",
-                color: "#ffffff",
-                textDecoration: "none",
-              }}
-            >
-              +91 88077 55804
-            </a>
-            <a
-              href="mailto:hello@momanion.com"
-              style={{
-                fontFamily: "Onest, sans-serif",
-                fontSize: "20px",
-                color: "#ffffff",
-                textDecoration: "none",
-              }}
-            >
-              hello@momanion.com
-            </a>
-
-            {/* Social links */}
+            <img src="/images/momanion/logo.webp" alt="Mom Anion" style={{ height: "80px", objectFit: "contain" }} />
+            <a href="tel:+918807755804" style={{ fontFamily: "Onest, sans-serif", fontSize: "20px", color: "#ffffff", textDecoration: "none" }}>+91 88077 55804</a>
+            <a href="mailto:hello@momanion.com" style={{ fontFamily: "Onest, sans-serif", fontSize: "20px", color: "#ffffff", textDecoration: "none" }}>hello@momanion.com</a>
             <div className="flex gap-5 mt-1">
               {socialLinks.map((s) => (
-                <a
-                  key={s.label}
-                  href={s.href}
-                  aria-label={s.label}
-                  style={{ color: "#4C1D95" }}
-                >
-                  {s.icon}
-                </a>
+                <a key={s.label} href={s.href} aria-label={s.label} style={{ color: "#4C1D95" }}>{s.icon}</a>
               ))}
             </div>
           </div>
-
-          {/* Right: tagline */}
           <div className="flex flex-col gap-4">
-            <div
-              style={{
-                fontFamily: '"Badrock Regular", sans-serif',
-                fontSize: "clamp(34px, 3.5vw, 54px)",
-                color: "#4C1D95",
-                lineHeight: 0.95,
-              }}
-            >
+            <div style={{ fontFamily: '"Badrock Regular", sans-serif', fontSize: "clamp(34px, 3.5vw, 54px)", color: "#4C1D95", lineHeight: 0.95 }}>
               Care That Feels Like A Mom&apos;s Gift
             </div>
-            <p
-              style={{
-                fontFamily: "Onest, sans-serif",
-                fontSize: "20px",
-                color: "rgba(255,255,255,0.85)",
-                lineHeight: 1.65,
-              }}
-            >
+            <p style={{ fontFamily: "Onest, sans-serif", fontSize: "20px", color: "rgba(255,255,255,0.85)", lineHeight: 1.65 }}>
               Next generation sanitary napkins with advanced anion technology. Designed for every woman.
             </p>
           </div>
@@ -147,11 +125,11 @@ export default function Footer() {
 
         {/* Bottom copyright */}
         <div
-          className="mt-12 pt-6 text-center"
+          className="mt-6 lg:mt-12 pt-4 lg:pt-6 text-center"
           style={{
             borderTop: "1px solid rgba(76,29,149,0.3)",
             fontFamily: "Onest, sans-serif",
-            fontSize: "18px",
+            fontSize: "clamp(11px, 2.5vw, 18px)",
             color: "rgba(255,255,255,0.7)",
           }}
         >

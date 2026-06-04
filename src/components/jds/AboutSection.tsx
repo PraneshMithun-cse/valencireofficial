@@ -3,13 +3,8 @@ export default function AboutSection() {
     <section
       id="about"
       className="w-full relative"
-      style={{
-        backgroundColor: "#9333EA",
-        paddingTop: "5rem",
-        paddingBottom: "5rem",
-        paddingLeft: "2.5rem",
-        paddingRight: "2.5rem",
-      }}
+      style={{ backgroundColor: "#9333EA" }}
+      className="pt-10 pb-10 px-5 lg:pt-20 lg:pb-20 lg:px-16"
     >
       {/* Dark scallop top edge */}
       <div
@@ -26,13 +21,13 @@ export default function AboutSection() {
         </svg>
       </div>
 
-      <div className="flex flex-col lg:flex-row gap-12 lg:gap-16 items-start">
+      <div className="flex flex-col lg:flex-row gap-6 lg:gap-16 items-start">
         {/* Left col */}
         <div className="flex-1">
           <div
             style={{
               fontFamily: '"Badrock Regular", sans-serif',
-              fontSize: "clamp(60px, 8vw, 114px)",
+              fontSize: "clamp(44px, 8vw, 114px)",
               color: "#FCD34D",
               lineHeight: 0.87,
             }}
@@ -43,10 +38,10 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "20px",
+              fontSize: "clamp(13px, 3.5vw, 20px)",
               color: "#ffffff",
-              lineHeight: 1.7,
-              marginTop: "1.5rem",
+              lineHeight: 1.65,
+              marginTop: "0.75rem",
               maxWidth: "520px",
             }}
           >
@@ -56,10 +51,10 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "20px",
+              fontSize: "clamp(13px, 3.5vw, 20px)",
               color: "rgba(255,255,255,0.82)",
-              lineHeight: 1.7,
-              marginTop: "1rem",
+              lineHeight: 1.65,
+              marginTop: "0.6rem",
               maxWidth: "520px",
             }}
           >
@@ -69,17 +64,17 @@ export default function AboutSection() {
           <p
             style={{
               fontFamily: "Onest, sans-serif",
-              fontSize: "20px",
+              fontSize: "clamp(13px, 3.5vw, 20px)",
               color: "rgba(255,255,255,0.75)",
-              lineHeight: 1.7,
-              marginTop: "1rem",
+              lineHeight: 1.65,
+              marginTop: "0.6rem",
               maxWidth: "520px",
             }}
           >
             Because every woman deserves care that feels like a gift — from Mom.
           </p>
 
-          <div className="flex flex-wrap gap-4 mt-8">
+          <div className="flex flex-wrap gap-3 mt-5">
             <a
               href="tel:+91-XXXXXXXXXX"
               style={{
@@ -87,9 +82,9 @@ export default function AboutSection() {
                 backgroundColor: "#EC4899",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "18px",
+                fontSize: "clamp(13px, 3.5vw, 18px)",
                 fontWeight: 600,
-                padding: "12px 28px",
+                padding: "10px 22px",
                 borderRadius: "999px",
                 textDecoration: "none",
               }}
@@ -103,9 +98,9 @@ export default function AboutSection() {
                 backgroundColor: "transparent",
                 color: "#ffffff",
                 fontFamily: "Onest, sans-serif",
-                fontSize: "18px",
+                fontSize: "clamp(13px, 3.5vw, 18px)",
                 fontWeight: 500,
-                padding: "12px 28px",
+                padding: "10px 22px",
                 borderRadius: "999px",
                 textDecoration: "none",
                 border: "2px solid rgba(255,255,255,0.4)",
@@ -117,13 +112,13 @@ export default function AboutSection() {
         </div>
 
         {/* Right col: logo + product */}
-        <div className="w-full lg:w-[42%] flex flex-col items-center gap-8">
+        <div className="w-full lg:w-[42%] flex flex-col items-center gap-4 lg:gap-8">
           <img
             src="/images/momanion/logo.webp"
             alt="Mom Anion Logo"
-            className="w-[70%] lg:w-[80%] object-contain"
+            className="w-[45%] lg:w-[80%] object-contain"
           />
-          <div className="flex gap-6 items-end">
+          <div className="flex gap-4 items-end">
             <img
               src="/images/momanion/product-xl.webp"
               alt="Mom Anion XL"

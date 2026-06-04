@@ -46,7 +46,7 @@ export default function TestimonialsSection() {
         <div
           style={{
             fontFamily: '"Badrock Regular", sans-serif',
-            fontSize: "clamp(50px, 7vw, 100px)",
+            fontSize: "clamp(38px, 7vw, 100px)",
             color: "#EC4899",
             lineHeight: 0.9,
             marginBottom: "3rem",
@@ -55,16 +55,16 @@ export default function TestimonialsSection() {
           What Women Say
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div className="grid grid-cols-2 gap-3 lg:gap-6">
           {testimonials.map((t) => (
             <div
               key={t.name}
-              className="rounded-3xl p-8 bg-white"
+              className="rounded-2xl lg:rounded-3xl p-3 lg:p-8 bg-white"
             >
               {/* Stars */}
-              <div style={{ marginBottom: "16px" }}>
+              <div style={{ marginBottom: "8px" }}>
                 {Array.from({ length: t.rating }).map((_, i) => (
-                  <span key={i} style={{ color: "#FCD34D", fontSize: "18px" }}>★</span>
+                  <span key={i} style={{ color: "#FCD34D", fontSize: "clamp(11px, 3vw, 18px)" }}>★</span>
                 ))}
               </div>
 
@@ -72,10 +72,10 @@ export default function TestimonialsSection() {
               <p
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "20px",
+                  fontSize: "clamp(10px, 2.4vw, 20px)",
                   color: "#000000",
-                  lineHeight: 1.7,
-                  marginBottom: "20px",
+                  lineHeight: 1.55,
+                  marginBottom: "10px",
                 }}
               >
                 &ldquo;{t.text}&rdquo;
@@ -85,7 +85,7 @@ export default function TestimonialsSection() {
               <div
                 style={{
                   fontFamily: "Onest, sans-serif",
-                  fontSize: "18px",
+                  fontSize: "clamp(10px, 2.4vw, 18px)",
                   fontWeight: 600,
                   color: "#000000",
                 }}
@@ -95,10 +95,12 @@ export default function TestimonialsSection() {
                   style={{
                     fontWeight: 400,
                     color: "rgba(0,0,0,0.6)",
-                    marginLeft: "8px",
+                    marginLeft: "4px",
+                    display: "block",
+                    fontSize: "clamp(9px, 2vw, 16px)",
                   }}
                 >
-                  — {t.location}
+                  {t.location}
                 </span>
               </div>
             </div>
